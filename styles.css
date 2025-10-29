@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Small project-specific helpers */
+.card { @apply bg-white shadow rounded-lg p-4; }
+.muted { @apply text-gray-500; }
+
+/* spinner and banner helpers */
+.spinner { @apply text-gray-500; }
+.banner-error { @apply bg-red-50 text-red-700 border border-red-100; }
+.banner-info { @apply bg-yellow-50 text-yellow-700 border border-yellow-100; }
+.study-title { @apply text-lg font-semibold text-gray-900; }
+.study-meta { @apply text-sm text-gray-500; }
+.card-actions { @apply mt-2 flex gap-2; }

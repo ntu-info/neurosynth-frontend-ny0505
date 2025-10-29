@@ -1,46 +1,89 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>Fetch /terms Demo</title>
-</head>
-<body>
-  <h1>Fetch https://mil.psy.ntu.edu.tw:5000/terms</h1>
-  <button id="btn">Fetch again</button>
-  <pre id="out">Loading…</pre>
-
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Neurosynth — AJAX Frontend</title>
+  <!-- Use Tailwind CDN for quick static deploys (no local build required) -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    /* helper classes (small set used by the UI) */
+    .card { background: white; box-shadow: 0 1px 2px rgba(0,0,0,0.05); border-radius: 0.5rem; padding: 1rem; }
+    .muted { color: #6b7280; }
+    .spinner { color: #6b7280; }
+    .banner-error { background: #fff1f2; color: #991b1b; border: 1px solid #fee2e2; }
+    .banner-info { background: #fffbeb; color: #92400e; border: 1px solid #fef3c7; }
+    .study-title { font-size: 1.125rem; font-weight: 600; color: #111827; }
+    .study-meta { font-size: 0.875rem; color: #6b7280; }
+    .card-actions { margin-top: .5rem; display:flex; gap:.5rem; }
+  </style>
   <script>
-    async function fetchTerms() {
-      const out = document.getElementById('out');
-      out.textContent = 'Requesting…';
-      try {
-        const resp = await fetch('https://mil.psy.ntu.edu.tw:5000/terms');
-        let info = `HTTP ${resp.status} ${resp.statusText}\n`;
-        const ct = resp.headers.get('content-type') || '';
-
-        if (!resp.ok) {
-          const text = await resp.text();
-          out.textContent = info + '\n' + text;
-          return;
-        }
-
-        if (ct.includes('application/json')) {
-          const data = await resp.json();
-          out.textContent = info + '\n' + JSON.stringify(data, null, 2);
-        } else {
-          const text = await resp.text();
-          out.textContent = info + '\n' + text;
-        }
-      } catch (err) {
-        document.getElementById('out').textContent =
-          'Error: ' + (err && err.message ? err.message : String(err)) +
-          '\n\nCommon causes:\n1) CORS not allowed by the server\n2) Opening this file via file:// instead of a local server\n3) Network/server issues';
-      }
-    }
-
-    document.getElementById('btn').addEventListener('click', fetchTerms);
-    fetchTerms();
+    // Default API base — can be overridden by setting window.API_BASE before loading main.js
+    window.API_BASE = window.API_BASE || 'https://mil.psy.ntu.edu.tw:5000';
   </script>
-</body>
-</html>
+  </head>
+  <body class="bg-gray-50 text-gray-900 min-h-screen">
+    <div class="max-w-4xl mx-auto p-6">
+      <header class="mb-6">
+        <h1 class="text-3xl font-bold">Neurosynth — AJAX Frontend</h1>
+        <p class="text-sm text-gray-600">A small static frontend that queries Tren's backend and displays results.</p>
+      </header>
 
+      <section class="bg-white shadow rounded-lg p-6 mb-6">
+        <div class="grid grid-cols-1 md:grid-cols-4 gap-4 items-end">
+          <div class="md:col-span-2">
+            <label class="block text-sm font-medium text-gray-700">Query / Term</label>
+            <input id="qinput" type="text" placeholder="e.g. amygdala or amygdala not emotion" class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm p-2" />
+          </div>
+
+          <div>
+            <label class="block text-sm font-medium text-gray-700">Mode</label>
+            <select id="mode" class="mt-1 block w-full rounded-md border-gray-300 p-2">
+              <option value="terms">List all terms (/terms)</option>
+              <option value="term">Term detail (/terms/&lt;term&gt;)</option>
+              <option value="query">Query studies (/query/&lt;q&gt;/studies)</option>
+            </select>
+          </div>
+
+          <div class="flex gap-2">
+            <button id="searchBtn" class="w-full bg-indigo-600 text-white px-4 py-2 rounded-md hover:bg-indigo-700">Search</button>
+            <button id="clearBtn" class="w-full bg-gray-100 text-gray-700 px-4 py-2 rounded-md hover:bg-gray-200">Clear</button>
+          </div>
+        </div>
+
+        <div class="mt-4 text-sm text-gray-500">
+          <strong>Examples:</strong>
+          <div class="mt-2 space-x-2">
+            <a class="text-indigo-600 underline" href="#" data-sample="/terms">/terms</a>
+            <a class="text-indigo-600 underline" href="#" data-sample="/terms/amygdala">/terms/amygdala</a>
+            <a class="text-indigo-600 underline" href="#" data-sample="/query/amygdala%20not%20emotion/studies">/query/amygdala not emotion/studies</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="mb-6">
+        <div class="flex items-center justify-between mb-2">
+          <h2 class="text-xl font-semibold">Results</h2>
+          <div class="flex items-center gap-3">
+            <div id="status" class="text-sm text-gray-500">Idle</div>
+            <div id="spinner" class="hidden text-sm text-gray-500">Loading…</div>
+          </div>
+        </div>
+
+        <!-- Banner for errors / guidance -->
+        <div id="banner" class="hidden mb-3 p-3 rounded text-sm"></div>
+
+        <div id="results" class="bg-white rounded-lg shadow p-4 min-h-[200px] overflow-auto text-sm">
+          <div id="resultsList">
+            <p class="text-gray-400">No results yet. Use the search box above to query the API.</p>
+          </div>
+          <div id="pagination" class="mt-3 flex items-center justify-center gap-2"></div>
+        </div>
+      </section>
+
+  <footer class="text-xs text-gray-500">This is a static demo UI — it sends requests to <code>https://mil.psy.ntu.edu.tw:5000</code>. Ensure the backend allows CORS for your origin.</footer>
+    </div>
+
+    <script src="main.js"></script>
+  </body>
+</html>
