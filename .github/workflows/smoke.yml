@@ -1,0 +1,29 @@
+name: Smoke tests
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run smoke requests
+        run: |
+          set -e
+          mkdir -p smoke-output
+          echo 'Fetching /terms'
+          curl -sS -f -o smoke-output/terms.json https://mil.psy.ntu.edu.tw:5000/terms
+          echo 'Fetching /terms/amygdala'
+          curl -sS -f -o smoke-output/term_amygdala.json https://mil.psy.ntu.edu.tw:5000/terms/amygdala
+          echo 'Fetching /query/amygdala not emotion/studies'
+          curl -sS -f -G -o smoke-output/query_amygdala.json --data-urlencode 'q=unused' "https://mil.psy.ntu.edu.tw:5000/query/amygdala%20not%20emotion/studies" || true
+
+      - name: Upload outputs
+        uses: actions/upload-artifact@v4
+        with:
+          name: smoke-output
+          path: smoke-output/
