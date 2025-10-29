@@ -1,0 +1,2638 @@
+{
+  "applied": {
+    "locations": false,
+    "r": null,
+    "terms": true
+  },
+  "count": 292,
+  "results": [
+    {
+      "authors": "Buchel C, Dolan RJ, Armony JL, Friston KJ",
+      "contrast_id": "1",
+      "id": "10594068-1",
+      "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+      "study_id": "10594068",
+      "title": "Amygdala-hippocampal involvement in human aversive trace conditioning revealed through event-related functional magnetic resonance imaging.",
+      "year": 1999
+    },
+    {
+      "authors": "Zalla T, Koechlin E, Pietrini P, Basso G, Aquino P, Sirigu A, Grafman J",
+      "contrast_id": "1",
+      "id": "10792453-1",
+      "journal": "The European journal of neuroscience",
+      "study_id": "10792453",
+      "title": "Differential amygdala responses to winning and losing: a functional magnetic resonance imaging study in humans.",
+      "year": 2000
+    },
+    {
+      "authors": "Thomas KM, Drevets WC, Whalen PJ, Eccard CH, Dahl RE, Ryan ND, Casey BJ",
+      "contrast_id": "1",
+      "id": "11239901-1",
+      "journal": "Biological psychiatry",
+      "study_id": "11239901",
+      "title": "Amygdala response to facial expressions in children and adults.",
+      "year": 2001
+    },
+    {
+      "authors": "Kahn I, Yeshurun Y, Rotshtein P, Fried I, Ben-Bashat D, Hendler T",
+      "contrast_id": "1",
+      "id": "11906703-1",
+      "journal": "Neuron",
+      "study_id": "11906703",
+      "title": "The role of the amygdala in signaling prospective outcome of choice.",
+      "year": 2002
+    },
+    {
+      "authors": "Bornhovd K, Quante M, Glauche V, Bromm B, Weiller C, Buchel C",
+      "contrast_id": "1",
+      "id": "12023321-1",
+      "journal": "Brain : a journal of neurology",
+      "study_id": "12023321",
+      "title": "Painful stimuli evoke different stimulus-response functions in the amygdala, prefrontal, insula and somatosensory cortex: a single-trial fMRI study.",
+      "year": 2002
+    },
+    {
+      "authors": "Kosaka H, Omori M, Murata T, Iidaka T, Yamada H, Okada T, Takahashi T, Sadato N, Itoh H, Yonekura Y, Wada Y",
+      "contrast_id": "1",
+      "id": "12165379-1",
+      "journal": "Schizophrenia research",
+      "study_id": "12165379",
+      "title": "Differential amygdala response during facial recognition in patients with schizophrenia: an fMRI study.",
+      "year": 2002
+    },
+    {
+      "authors": "Hariri AR, Mattay VS, Tessitore A, Fera F, Weinberger DR",
+      "contrast_id": "1",
+      "id": "12644354-1",
+      "journal": "Biological psychiatry",
+      "study_id": "12644354",
+      "title": "Neocortical modulation of the amygdala response to fearful stimuli.",
+      "year": 2003
+    },
+    {
+      "authors": "Wright CI, Martis B, Schwartz CE, Shin LM, Fischer H H, McMullin K, Rauch SL",
+      "contrast_id": "1",
+      "id": "12667843-1",
+      "journal": "NeuroImage",
+      "study_id": "12667843",
+      "title": "Novelty responses and differential effects of order in the amygdala, substantia innominata, and inferior temporal cortex.",
+      "year": 2003
+    },
+    {
+      "authors": "Nomura M, Ohira H, Haneda K, Iidaka T, Sadato N, Okada T, Yonekura Y",
+      "contrast_id": "1",
+      "id": "14741673-1",
+      "journal": "NeuroImage",
+      "study_id": "14741673",
+      "title": "Functional association of the amygdala and ventral prefrontal cortex during cognitive evaluation of facial expressions primed by masked angry faces: an event-related fMRI study.",
+      "year": 2004
+    },
+    {
+      "authors": "Killgore WD, Yurgelun-Todd DA",
+      "contrast_id": "1",
+      "id": "15050549-1",
+      "journal": "NeuroImage",
+      "study_id": "15050549",
+      "title": "Activation of the amygdala and anterior cingulate during nonconscious processing  of sad versus happy faces.",
+      "year": 2004
+    },
+    {
+      "authors": "Morris JS, Dolan RJ",
+      "contrast_id": "1",
+      "id": "15110029-1",
+      "journal": "NeuroImage",
+      "study_id": "15110029",
+      "title": "Dissociable amygdala and orbitofrontal responses during reversal fear conditioning.",
+      "year": 2004
+    },
+    {
+      "authors": "Phelps EA, Delgado MR, Nearing KI, LeDoux JE",
+      "contrast_id": "1",
+      "id": "15363399-1",
+      "journal": "Neuron",
+      "study_id": "15363399",
+      "title": "Extinction learning in humans: role of the amygdala and vmPFC.",
+      "year": 2004
+    },
+    {
+      "authors": "Etkin A, Klemenhagen KC, Dudman JT, Rogan MT, Hen R, Kandel ER, Hirsch J",
+      "contrast_id": "1",
+      "id": "15603746-1",
+      "journal": "Neuron",
+      "study_id": "15603746",
+      "title": "Individual differences in trait anxiety predict the response of the basolateral amygdala to unconsciously processed fearful faces.",
+      "year": 2004
+    },
+    {
+      "authors": "Greenberg DL, Rice HJ, Cooper JJ, Cabeza R, Rubin DC, Labar KS",
+      "contrast_id": "1",
+      "id": "15721179-1",
+      "journal": "Neuropsychologia",
+      "study_id": "15721179",
+      "title": "Co-activation of the amygdala, hippocampus and inferior frontal gyrus during autobiographical memory retrieval.",
+      "year": 2005
+    },
+    {
+      "authors": "Protopopescu X, Pan H, Tuescher O, Cloitre M, Goldstein M, Engelien W, Epstein J, Yang Y, Gorman J, LeDoux J, Silbersweig D, Stern E",
+      "contrast_id": "1",
+      "id": "15737660-1",
+      "journal": "Biological psychiatry",
+      "study_id": "15737660",
+      "title": "Differential time courses and specificity of amygdala activity in posttraumatic stress disorder subjects and normal control subjects.",
+      "year": 2005
+    },
+    {
+      "authors": "Cools R, Calder AJ, Lawrence AD, Clark L, Bullmore E, Robbins TW",
+      "contrast_id": "1",
+      "id": "15772862-1",
+      "journal": "Psychopharmacology",
+      "study_id": "15772862",
+      "title": "Individual differences in threat sensitivity predict serotonergic modulation of amygdala response to fearful faces.",
+      "year": 2005
+    },
+    {
+      "authors": "Ernst M, Nelson EE, Jazbec S, McClure EB, Monk CS, Leibenluft E, Blair J, Pine DS",
+      "contrast_id": "1",
+      "id": "15850746-1",
+      "journal": "NeuroImage",
+      "study_id": "15850746",
+      "title": "Amygdala and nucleus accumbens in responses to receipt and omission of gains in adults and adolescents.",
+      "year": 2005
+    },
+    {
+      "authors": "Das P, Kemp AH, Liddell BJ, Brown KJ, Olivieri G, Peduto A, Gordon E, Williams LM",
+      "contrast_id": "1",
+      "id": "15862214-1",
+      "journal": "NeuroImage",
+      "study_id": "15862214",
+      "title": "Pathways for fear perception: modulation of amygdala activity by thalamo-cortical systems.",
+      "year": 2005
+    },
+    {
+      "authors": "Pessoa L, Japee S, Sturman D, Ungerleider LG",
+      "contrast_id": "1",
+      "id": "15930371-1",
+      "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+      "study_id": "15930371",
+      "title": "Target visibility and visual awareness modulate amygdala responses to fearful faces.",
+      "year": 2006
+    },
+    {
+      "authors": "Tabbert K, Stark R, Kirsch P, Vaitl D",
+      "contrast_id": "1",
+      "id": "15935259-1",
+      "journal": "International journal of psychophysiology : official journal of the International Organization of Psychophysiology",
+      "study_id": "15935259",
+      "title": "Hemodynamic responses of the amygdala, the orbitofrontal cortex and the visual cortex during a fear conditioning paradigm.",
+      "year": 2005
+    },
+    {
+      "authors": "Bertolino A, Arciero G, Rubino V, Latorre V, De Candia M, Mazzola V, Blasi G, Caforio G, Hariri A, Kolachana B, Nardini M, Weinberger DR, Scarabino T",
+      "contrast_id": "1",
+      "id": "15953488-1",
+      "journal": "Biological psychiatry",
+      "study_id": "15953488",
+      "title": "Variation of human amygdala response during threatening stimuli as a function of  5'HTTLPR genotype and personality style.",
+      "year": 2005
+    },
+    {
+      "authors": "Knight DC, Nguyen HT, Bandettini PA",
+      "contrast_id": "1",
+      "id": "15961053-1",
+      "journal": "NeuroImage",
+      "study_id": "15961053",
+      "title": "The role of the human amygdala in the production of conditioned fear responses.",
+      "year": 2005
+    },
+    {
+      "authors": "Pessoa L, Padmala S, Morland T",
+      "contrast_id": "1",
+      "id": "15993624-1",
+      "journal": "NeuroImage",
+      "study_id": "15993624",
+      "title": "Fate of unattended fearful faces in the amygdala is determined by both attentional resources and cognitive modulation.",
+      "year": 2005
+    },
+    {
+      "authors": "Iidaka T, Ozaki N, Matsumoto A, Nogawa J, Kinoshita Y, Suzuki T, Iwata N, Yamamoto Y, Okada T, Sadato N",
+      "contrast_id": "1",
+      "id": "16000636-1",
+      "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+      "study_id": "16000636",
+      "title": "A variant C178T in the regulatory region of the serotonin receptor gene HTR3A modulates neural activation in the human amygdala.",
+      "year": 2005
+    },
+    {
+      "authors": "Wright P, Liu Y",
+      "contrast_id": "1",
+      "id": "16143545-1",
+      "journal": "NeuroImage",
+      "study_id": "16143545",
+      "title": "Neutral faces activate the amygdala during identity matching.",
+      "year": 2006
+    },
+    {
+      "authors": "Williams LM, Kemp AH, Felmingham K, Barton M, Olivieri G, Peduto A, Gordon E, Bryant RA",
+      "contrast_id": "1",
+      "id": "16216534-1",
+      "journal": "NeuroImage",
+      "study_id": "16216534",
+      "title": "Trauma modulates amygdala and medial prefrontal responses to consciously attended fear.",
+      "year": 2006
+    },
+    {
+      "authors": "Grezes J, Berthoz S, Passingham RE",
+      "contrast_id": "1",
+      "id": "16257239-1",
+      "journal": "NeuroImage",
+      "study_id": "16257239",
+      "title": "Amygdala activation when one is the target of deceit: did he lie to you or to someone else?",
+      "year": 2006
+    },
+    {
+      "authors": "Williams LM, Liddell BJ, Kemp AH, Bryant RA, Meares RA, Peduto AS, Gordon E",
+      "contrast_id": "1",
+      "id": "16281289-1",
+      "journal": "Human brain mapping",
+      "study_id": "16281289",
+      "title": "Amygdala-prefrontal dissociation of subliminal and supraliminal fear.",
+      "year": 2006
+    },
+    {
+      "authors": "Lemche E, Giampietro VP, Surguladze SA, Amaro EJ, Andrew CM, Williams SC, Brammer MJ, Lawrence N, Maier MA, Russell TA, Simmons A, Ecker C, Joraschky P, Phillips ML",
+      "contrast_id": "1",
+      "id": "16284946-1",
+      "journal": "Human brain mapping",
+      "study_id": "16284946",
+      "title": "Human attachment security is mediated by the amygdala: evidence from combined fMRI and psychophysiological measures.",
+      "year": 2006
+    },
+    {
+      "authors": "Fitzgerald DA, Angstadt M, Jelsone LM, Nathan PJ, Phan KL",
+      "contrast_id": "1",
+      "id": "16368249-1",
+      "journal": "NeuroImage",
+      "study_id": "16368249",
+      "title": "Beyond threat: amygdala reactivity across multiple expressions of facial affect.",
+      "year": 2006
+    },
+    {
+      "authors": "Kosson DS, Budhani S, Nakic M, Chen G, Saad ZS, Vythilingam M, Pine DS, Blair RJ",
+      "contrast_id": "1",
+      "id": "16387514-1",
+      "journal": "NeuroImage",
+      "study_id": "16387514",
+      "title": "The role of the amygdala and rostral anterior cingulate in encoding expected outcomes during learning.",
+      "year": 2006
+    },
+    {
+      "authors": "Wright CI, Wedig MM, Williams D, Rauch SL, Albert MS",
+      "contrast_id": "1",
+      "id": "16399218-1",
+      "journal": "Neurobiology of aging",
+      "study_id": "16399218",
+      "title": "Novel fearful faces activate the amygdala in healthy young and elderly adults.",
+      "year": 2006
+    },
+    {
+      "authors": "Most SB, Chun MM, Johnson MR, Kiehl KA",
+      "contrast_id": "1",
+      "id": "16492400-1",
+      "journal": "NeuroImage",
+      "study_id": "16492400",
+      "title": "Attentional modulation of the amygdala varies with personality.",
+      "year": 2006
+    },
+    {
+      "authors": "Kensinger EA, Schacter DL",
+      "contrast_id": "1",
+      "id": "16510734-1",
+      "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+      "study_id": "16510734",
+      "title": "Amygdala activity is associated with the successful encoding of item, but not source, information for positive and negative stimuli.",
+      "year": 2006
+    },
+    {
+      "authors": "Roberson-Nay R, McClure EB, Monk CS, Nelson EE, Guyer AE, Fromm SJ, Charney DS, Leibenluft E, Blair J, Ernst M, Pine DS",
+      "contrast_id": "1",
+      "id": "16603133-1",
+      "journal": "Biological psychiatry",
+      "study_id": "16603133",
+      "title": "Increased amygdala activity during successful memory encoding in adolescent major depressive disorder: An FMRI study.",
+      "year": 2006
+    },
+    {
+      "authors": "Urry HL, van Reekum CM, Johnstone T, Kalin NH, Thurow ME, Schaefer HS, Jackson CA, Frye CJ, Greischar LL, Alexander AL, Davidson RJ",
+      "contrast_id": "1",
+      "id": "16624961-1",
+      "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+      "study_id": "16624961",
+      "title": "Amygdala and ventromedial prefrontal cortex are inversely coupled during regulation of negative affect and predict the diurnal pattern of cortisol secretion among older adults.",
+      "year": 2006
+    },
+    {
+      "authors": "Nakic M, Smith BW, Busis S, Vythilingam M, Blair RJ",
+      "contrast_id": "1",
+      "id": "16647271-1",
+      "journal": "NeuroImage",
+      "study_id": "16647271",
+      "title": "The impact of affect and frequency on lexical decision: the role of the amygdala  and inferior frontal cortex.",
+      "year": 2006
+    },
+    {
+      "authors": "Pillay SS, Gruber SA, Rogowska J, Simpson N, Yurgelun-Todd DA",
+      "contrast_id": "1",
+      "id": "16782207-1",
+      "journal": "Journal of affective disorders",
+      "study_id": "16782207",
+      "title": "fMRI of fearful facial affect recognition in panic disorder: the cingulate gyrus-amygdala connection.",
+      "year": 2006
+    },
+    {
+      "authors": "Ashwin C, Baron-Cohen S, Wheelwright S, O'Riordan M, Bullmore ET",
+      "contrast_id": "1",
+      "id": "16806312-1",
+      "journal": "Neuropsychologia",
+      "study_id": "16806312",
+      "title": "Differential activation of the amygdala and the 'social brain' during fearful face-processing in Asperger Syndrome.",
+      "year": 2007
+    },
+    {
+      "authors": "Reinders AA, Glascher J, de Jong JR, Willemsen AT, den Boer JA, Buchel C",
+      "contrast_id": "1",
+      "id": "16952466-1",
+      "journal": "NeuroImage",
+      "study_id": "16952466",
+      "title": "Detecting fearful and neutral faces: BOLD latency differences in amygdala-hippocampal junction.",
+      "year": 2006
+    },
+    {
+      "authors": "Williams LM, Das P, Liddell BJ, Kemp AH, Rennie CJ, Gordon E",
+      "contrast_id": "1",
+      "id": "16957082-1",
+      "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+      "study_id": "16957082",
+      "title": "Mode of functional connectivity in amygdala pathways dissociates level of awareness for signals of fear.",
+      "year": 2006
+    },
+    {
+      "authors": "Schaefer A, Braver TS, Reynolds JR, Burgess GC, Yarkoni T, Gray JR",
+      "contrast_id": "1",
+      "id": "17021168-1",
+      "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+      "study_id": "17021168",
+      "title": "Individual differences in amygdala activity predict response speed during working memory.",
+      "year": 2006
+    },
+    {
+      "authors": "Siegle GJ, Thompson W, Carter CS, Steinhauer SR, Thase ME",
+      "contrast_id": "1",
+      "id": "17027931-1",
+      "journal": "Biological psychiatry",
+      "study_id": "17027931",
+      "title": "Increased amygdala and decreased dorsolateral prefrontal BOLD responses in unipolar depression: related and independent features.",
+      "year": 2007
+    },
+    {
+      "authors": "Sambataro F, Dimalta S, Di Giorgio A, Taurisano P, Blasi G, Scarabino T, Giannatempo G, Nardini M, Bertolino A",
+      "contrast_id": "1",
+      "id": "17042790-1",
+      "journal": "The European journal of neuroscience",
+      "study_id": "17042790",
+      "title": "Preferential responses in amygdala and insula during presentation of facial contempt and disgust.",
+      "year": 2006
+    },
+    {
+      "authors": "Straube T, Weiss T, Mentzel HJ, Miltner WH",
+      "contrast_id": "1",
+      "id": "17070072-1",
+      "journal": "NeuroImage",
+      "study_id": "17070072",
+      "title": "Time course of amygdala activation during aversive conditioning depends on attention.",
+      "year": 2007
+    },
+    {
+      "authors": "Hessl D, Rivera S, Koldewyn K, Cordeiro L, Adams J, Tassone F, Hagerman PJ, Hagerman RJ",
+      "contrast_id": "1",
+      "id": "17166860-1",
+      "journal": "Brain : a journal of neurology",
+      "study_id": "17166860",
+      "title": "Amygdala dysfunction in men with the fragile X premutation.",
+      "year": 2007
+    },
+    {
+      "authors": "Coccaro EF, McCloskey MS, Fitzgerald DA, Phan KL",
+      "contrast_id": "1",
+      "id": "17210136-1",
+      "journal": "Biological psychiatry",
+      "study_id": "17210136",
+      "title": "Amygdala and orbitofrontal reactivity to social threat in individuals with impulsive aggression.",
+      "year": 2007
+    },
+    {
+      "authors": "Das P, Kemp AH, Flynn G, Harris AW, Liddell BJ, Whitford TJ, Peduto A, Gordon E, Williams LM",
+      "contrast_id": "1",
+      "id": "17222539-1",
+      "journal": "Schizophrenia research",
+      "study_id": "17222539",
+      "title": "Functional disconnections in the direct and indirect amygdala pathways for fear processing in schizophrenia.",
+      "year": 2007
+    },
+    {
+      "authors": "Ernst M, Maheu FS, Schroth E, Hardin J, Golan LG, Cameron J, Allen R, Holzer S, Nelson E, Pine DS, Merke DP",
+      "contrast_id": "1",
+      "id": "17336344-1",
+      "journal": "Neuropsychologia",
+      "study_id": "17336344",
+      "title": "Amygdala function in adolescents with congenital adrenal hyperplasia: a model for the study of early steroid abnormalities.",
+      "year": 2007
+    },
+    {
+      "authors": "Stein JL, Wiedholz LM, Bassett DS, Weinberger DR, Zink CF, Mattay VS, Meyer-Lindenberg A",
+      "contrast_id": "1",
+      "id": "17475514-1",
+      "journal": "NeuroImage",
+      "study_id": "17475514",
+      "title": "A validated network of effective amygdala connectivity.",
+      "year": 2007
+    },
+    {
+      "authors": "Goossens L, Schruers K, Peeters R, Griez E, Sunaert S",
+      "contrast_id": "1",
+      "id": "17499485-1",
+      "journal": "Psychiatry research",
+      "study_id": "17499485",
+      "title": "Visual presentation of phobic stimuli: amygdala activation via an extrageniculostriate pathway?",
+      "year": 2007
+    },
+    {
+      "authors": "Bryant RA, Kemp AH, Felmingham KL, Liddell B, Olivieri G, Peduto A, Gordon E, Williams LM",
+      "contrast_id": "1",
+      "id": "17525984-1",
+      "journal": "Human brain mapping",
+      "study_id": "17525984",
+      "title": "Enhanced amygdala and medial prefrontal activation during nonconscious processing of fear in posttraumatic stress disorder: an fMRI study.",
+      "year": 2008
+    },
+    {
+      "authors": "Cohen MX, Elger CE, Weber B",
+      "contrast_id": "1",
+      "id": "17997112-1",
+      "journal": "NeuroImage",
+      "study_id": "17997112",
+      "title": "Amygdala tractography predicts functional connectivity and learning during feedback-guided decision-making.",
+      "year": 2008
+    },
+    {
+      "authors": "Foland LC, Altshuler LL, Bookheimer SY, Eisenberger N, Townsend J, Thompson PM",
+      "contrast_id": "1",
+      "id": "18063349-1",
+      "journal": "Psychiatry research",
+      "study_id": "18063349",
+      "title": "Evidence for deficient modulation of amygdala response by prefrontal cortex in bipolar mania.",
+      "year": 2008
+    },
+    {
+      "authors": "Schwartz S, Ponz A, Poryazova R, Werth E, Boesiger P, Khatami R, Bassetti CL",
+      "contrast_id": "1",
+      "id": "18094020-1",
+      "journal": "Brain : a journal of neurology",
+      "study_id": "18094020",
+      "title": "Abnormal activity in hypothalamus and amygdala during humour processing in human  narcolepsy with cataplexy.",
+      "year": 2008
+    },
+    {
+      "authors": "Baas D, Aleman A, Vink M, Ramsey NF, de Haan EH, Kahn RS",
+      "contrast_id": "1",
+      "id": "18261933-1",
+      "journal": "NeuroImage",
+      "study_id": "18261933",
+      "title": "Evidence of altered cortical and amygdala activation during social decision-making in schizophrenia.",
+      "year": 2008
+    },
+    {
+      "authors": "St Jacques P, Dolcos F, Cabeza R",
+      "contrast_id": "1",
+      "id": "18455837-1",
+      "journal": "Neurobiology of aging",
+      "study_id": "18455837",
+      "title": "Effects of aging on functional connectivity of the amygdala during negative evaluation: a network analysis of fMRI data.",
+      "year": 2010
+    },
+    {
+      "authors": "Asghar AU, Chiu YC, Hallam G, Liu S, Mole H, Wright H, Young AW",
+      "contrast_id": "1",
+      "id": "18479717-1",
+      "journal": "Neuropsychologia",
+      "study_id": "18479717",
+      "title": "An amygdala response to fearful faces with covered eyes.",
+      "year": 2008
+    },
+    {
+      "authors": "Alvarez RP, Biggs A, Chen G, Pine DS, Grillon C",
+      "contrast_id": "1",
+      "id": "18550763-1",
+      "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+      "study_id": "18550763",
+      "title": "Contextual fear conditioning in humans: cortical-hippocampal and amygdala contributions.",
+      "year": 2008
+    },
+    {
+      "authors": "Said CP, Baron SG, Todorov A",
+      "contrast_id": "1",
+      "id": "18564045-1",
+      "journal": "Journal of cognitive neuroscience",
+      "study_id": "18564045",
+      "title": "Nonlinear amygdala response to face trustworthiness: contributions of high and low spatial frequency information.",
+      "year": 2009
+    },
+    {
+      "authors": "Vrticka P, Andersson F, Grandjean D, Sander D, Vuilleumier P",
+      "contrast_id": "1",
+      "id": "18682729-1",
+      "journal": "PloS one",
+      "study_id": "18682729",
+      "title": "Individual attachment style modulates human amygdala and striatum activation during social appraisal.",
+      "year": 2008
+    },
+    {
+      "authors": "Bonelli SB, Powell R, Yogarajah M, Thompson PJ, Symms MR, Koepp MJ, Duncan JS",
+      "contrast_id": "1",
+      "id": "18717711-1",
+      "journal": "Epilepsia",
+      "study_id": "18717711",
+      "title": "Preoperative amygdala fMRI in temporal lobe epilepsy.",
+      "year": 2009
+    },
+    {
+      "authors": "Yoshimura S, Ueda K, Suzuki S, Onoda K, Okamoto Y, Yamawaki S",
+      "contrast_id": "1",
+      "id": "18723260-1",
+      "journal": "Brain and cognition",
+      "study_id": "18723260",
+      "title": "Self-referential processing of negative stimuli within the ventral anterior cingulate gyrus and right amygdala.",
+      "year": 2009
+    },
+    {
+      "authors": "Marschner A, Kalisch R, Vervliet B, Vansteenwegen D, Buchel C",
+      "contrast_id": "1",
+      "id": "18768697-1",
+      "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+      "study_id": "18768697",
+      "title": "Dissociable roles for the hippocampus and the amygdala in human cued versus context fear conditioning.",
+      "year": 2008
+    },
+    {
+      "authors": "Kim JW, Choi EA, Kim JJ, Jeong BS, Kim SE, Ki SW",
+      "contrast_id": "1",
+      "id": "18804514-1",
+      "journal": "Neuroscience letters",
+      "study_id": "18804514",
+      "title": "The role of amygdala during auditory verbal imagery of derogatory appraisals by others.",
+      "year": 2008
+    },
+    {
+      "authors": "Cornwell BR, Carver FW, Coppola R, Johnson L, Alvarez R, Grillon C",
+      "contrast_id": "1",
+      "id": "18930036-1",
+      "journal": "Brain research",
+      "study_id": "18930036",
+      "title": "Evoked amygdala responses to negative faces revealed by adaptive MEG beamformers.",
+      "year": 2008
+    },
+    {
+      "authors": "Drabant EM, McRae K, Manuck SB, Hariri AR, Gross JJ",
+      "contrast_id": "1",
+      "id": "18930182-1",
+      "journal": "Biological psychiatry",
+      "study_id": "18930182",
+      "title": "Individual differences in typical reappraisal use predict amygdala and prefrontal responses.",
+      "year": 2009
+    },
+    {
+      "authors": "Lau JY, Goldman D, Buzas B, Fromm SJ, Guyer AE, Hodgkinson C, Monk CS, Nelson EE, Shen PH, Pine DS, Ernst M",
+      "contrast_id": "1",
+      "id": "18950748-1",
+      "journal": "Biological psychiatry",
+      "study_id": "18950748",
+      "title": "Amygdala function and 5-HTT gene variants in adolescent anxiety and major depressive disorder.",
+      "year": 2009
+    },
+    {
+      "authors": "Gianaros PJ, Hariri AR, Sheu LK, Muldoon MF, Sutton-Tyrrell K, Manuck SB",
+      "contrast_id": "1",
+      "id": "19013557-1",
+      "journal": "Biological psychiatry",
+      "study_id": "19013557",
+      "title": "Preclinical atherosclerosis covaries with individual differences in reactivity and functional connectivity of the amygdala.",
+      "year": 2009
+    },
+    {
+      "authors": "Hardee JE, Thompson JC, Puce A",
+      "contrast_id": "1",
+      "id": "19015094-1",
+      "journal": "Social cognitive and affective neuroscience",
+      "study_id": "19015094",
+      "title": "The left amygdala knows fear: laterality in the amygdala response to fearful eyes.",
+      "year": 2008
+    },
+    {
+      "authors": "Petrovic P, Kalisch R, Pessiglione M, Singer T, Dolan RJ",
+      "contrast_id": "1",
+      "id": "19015101-1",
+      "journal": "Social cognitive and affective neuroscience",
+      "study_id": "19015101",
+      "title": "Learning affective values for faces is expressed in amygdala and fusiform gyrus.",
+      "year": 2008
+    },
+    {
+      "authors": "Anders S, Eippert F, Weiskopf N, Veit R",
+      "contrast_id": "1",
+      "id": "19015115-1",
+      "journal": "Social cognitive and affective neuroscience",
+      "study_id": "19015115",
+      "title": "The human amygdala is sensitive to the valence of pictures and sounds irrespective of arousal: an fMRI study.",
+      "year": 2008
+    },
+    {
+      "authors": "Siep N, Roefs A, Roebroeck A, Havermans R, Bonte ML, Jansen A",
+      "contrast_id": "1",
+      "id": "19028527-1",
+      "journal": "Behavioural brain research",
+      "study_id": "19028527",
+      "title": "Hunger is the best spice: an fMRI study of the effects of attention, hunger and calorie content on food reward processing in the amygdala and orbitofrontal cortex.",
+      "year": 2009
+    },
+    {
+      "authors": "Kukolja J, Schlapfer TE, Keysers C, Klingmuller D, Maier W, Fink GR, Hurlemann R",
+      "contrast_id": "1",
+      "id": "19036981-1",
+      "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+      "study_id": "19036981",
+      "title": "Modeling a negative response bias in the human amygdala by noradrenergic-glucocorticoid interactions.",
+      "year": 2008
+    },
+    {
+      "authors": "Almeida JR, Akkal D, Hassel S, Travis MJ, Banihashemi L, Kerr N, Kupfer DJ, Phillips ML",
+      "contrast_id": "1",
+      "id": "19101126-1",
+      "journal": "Psychiatry research",
+      "study_id": "19101126",
+      "title": "Reduced gray matter volume in ventral prefrontal cortex but not amygdala in bipolar disorder: significant effects of gender and trait anxiety.",
+      "year": 2009
+    },
+    {
+      "authors": "Ewbank MP, Barnard PJ, Croucher CJ, Ramponi C, Calder AJ",
+      "contrast_id": "1",
+      "id": "19151376-1",
+      "journal": "Social cognitive and affective neuroscience",
+      "study_id": "19151376",
+      "title": "The amygdala response to images with impact.",
+      "year": 2009
+    },
+    {
+      "authors": "Lang S, Kroll A, Lipinski SJ, Wessa M, Ridder S, Christmann C, Schad LR, Flor H",
+      "contrast_id": "1",
+      "id": "19200075-1",
+      "journal": "The European journal of neuroscience",
+      "study_id": "19200075",
+      "title": "Context conditioning and extinction in humans: differential contribution of the hippocampus, amygdala and prefrontal cortex.",
+      "year": 2009
+    },
+    {
+      "authors": "Onur OA, Walter H, Schlaepfer TE, Rehme AK, Schmidt C, Keysers C, Maier W, Hurlemann R",
+      "contrast_id": "1",
+      "id": "19246474-1",
+      "journal": "Social cognitive and affective neuroscience",
+      "study_id": "19246474",
+      "title": "Noradrenergic enhancement of amygdala responses to fear.",
+      "year": 2009
+    },
+    {
+      "authors": "Fisher PM, Meltzer CC, Price JC, Coleman RL, Ziolko SK, Becker C, Moses-Kolko EL, Berga SL, Hariri AR",
+      "contrast_id": "1",
+      "id": "19321655-1",
+      "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+      "study_id": "19321655",
+      "title": "Medial prefrontal cortex 5-HT(2A) density is correlated with amygdala reactivity, response habituation, and functional coupling.",
+      "year": 2009
+    },
+    {
+      "authors": "Blasi G, Popolizio T, Taurisano P, Caforio G, Romano R, Di Giorgio A, Sambataro F, Rubino V, Latorre V, Lo Bianco L, Fazio L, Nardini M, Weinberger DR, Bertolino A",
+      "contrast_id": "1",
+      "id": "19428222-1",
+      "journal": "Psychiatry research",
+      "study_id": "19428222",
+      "title": "Changes in prefrontal and amygdala activity during olanzapine treatment in schizophrenia.",
+      "year": 2009
+    },
+    {
+      "authors": "Carlson JM, Reinke KS, Habib R",
+      "contrast_id": "1",
+      "id": "19428403-1",
+      "journal": "Neuropsychologia",
+      "study_id": "19428403",
+      "title": "A left amygdala mediated network for rapid orienting to masked fearful faces.",
+      "year": 2009
+    },
+    {
+      "authors": "Norbury R, Taylor MJ, Selvaraj S, Murphy SE, Harmer CJ, Cowen PJ",
+      "contrast_id": "1",
+      "id": "19585106-1",
+      "journal": "Psychopharmacology",
+      "study_id": "19585106",
+      "title": "Short-term antidepressant treatment modulates amygdala response to happy faces.",
+      "year": 2009
+    },
+    {
+      "authors": "van Marle HJ, Hermans EJ, Qin S, Fernandez G",
+      "contrast_id": "1",
+      "id": "19596123-1",
+      "journal": "Biological psychiatry",
+      "study_id": "19596123",
+      "title": "From specificity to sensitivity: how acute stress affects amygdala processing of  biologically salient stimuli.",
+      "year": 2009
+    },
+    {
+      "authors": "Robinson JL, Laird AR, Glahn DC, Lovallo WR, Fox PT",
+      "contrast_id": "1",
+      "id": "19603407-1",
+      "journal": "Human brain mapping",
+      "study_id": "19603407",
+      "title": "Metaanalytic connectivity modeling: delineating the functional connectivity of the human amygdala.",
+      "year": 2010
+    },
+    {
+      "authors": "Gruber O, Tost H, Henseler I, Schmael C, Scherk H, Ende G, Ruf M, Falkai P, Rietschel M",
+      "contrast_id": "1",
+      "id": "19603410-1",
+      "journal": "Human brain mapping",
+      "study_id": "19603410",
+      "title": "Pathological amygdala activation during working memory performance: Evidence for  a pathophysiological trait marker in bipolar affective disorder.",
+      "year": 2010
+    },
+    {
+      "authors": "Baeken C, De Raedt R, Ramsey N, Van Schuerbeek P, Hermes D, Bossuyt A, Leyman L, Vanderhasselt MA, De Mey J, Luypaert R",
+      "contrast_id": "1",
+      "id": "19679112-1",
+      "journal": "Brain research",
+      "study_id": "19679112",
+      "title": "Amygdala responses to positively and negatively valenced baby faces in healthy female volunteers: influences of individual differences in harm avoidance.",
+      "year": 2009
+    },
+    {
+      "authors": "Blasi G, Hariri AR, Alce G, Taurisano P, Sambataro F, Das S, Bertolino A, Weinberger DR, Mattay VS",
+      "contrast_id": "1",
+      "id": "19709644-1",
+      "journal": "Biological psychiatry",
+      "study_id": "19709644",
+      "title": "Preferential amygdala reactivity to the negative assessment of neutral faces.",
+      "year": 2009
+    },
+    {
+      "authors": "Kim MJ, Whalen PJ",
+      "contrast_id": "1",
+      "id": "19759308-1",
+      "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+      "study_id": "19759308",
+      "title": "The structural integrity of an amygdala-prefrontal pathway predicts trait anxiety.",
+      "year": 2009
+    },
+    {
+      "authors": "Ziv M, Tomer R, Defrin R, Hendler T",
+      "contrast_id": "1",
+      "id": "19790170-1",
+      "journal": "Human brain mapping",
+      "study_id": "19790170",
+      "title": "Individual sensitivity to pain expectancy is related to differential activation of the hippocampus and amygdala.",
+      "year": 2010
+    },
+    {
+      "authors": "Iidaka T, Saito DN, Komeda H, Mano Y, Kanayama N, Osumi T, Ozaki N, Sadato N",
+      "contrast_id": "1",
+      "id": "19803681-1",
+      "journal": "Journal of cognitive neuroscience",
+      "study_id": "19803681",
+      "title": "Transient neural activation in human amygdala involved in aversive conditioning of face and voice.",
+      "year": 2010
+    },
+    {
+      "authors": "Gillihan SJ, Rao H, Wang J, Detre JA, Breland J, Sankoorikal GM, Brodkin ES, Farah MJ",
+      "contrast_id": "1",
+      "id": "19858108-1",
+      "journal": "Social cognitive and affective neuroscience",
+      "study_id": "19858108",
+      "title": "Serotonin transporter genotype modulates amygdala activity during mood regulation.",
+      "year": 2010
+    },
+    {
+      "authors": "Kobiella A, Vollstadt-Klein S, Buhler M, Graf C, Buchholz HG, Bernow N, Yakushev IY, Landvogt C, Schreckenberger M, Grunder G, Bartenstein P, Fehr C, Smolka MN",
+      "contrast_id": "1",
+      "id": "19904802-1",
+      "journal": "Human brain mapping",
+      "study_id": "19904802",
+      "title": "Human dopamine receptor D2/D3 availability predicts amygdala reactivity to unpleasant stimuli.",
+      "year": 2010
+    },
+    {
+      "authors": "Zaretsky M, Mendelsohn A, Mintz M, Hendler T",
+      "contrast_id": "1",
+      "id": "19929759-1",
+      "journal": "Journal of cognitive neuroscience",
+      "study_id": "19929759",
+      "title": "In the eye of the beholder: internally driven uncertainty of danger recruits the  amygdala and dorsomedial prefrontal cortex.",
+      "year": 2010
+    },
+    {
+      "authors": "Schardt DM, Erk S, Nusser C, Nothen MM, Cichon S, Rietschel M, Treutlein J, Goschke T, Walter H",
+      "contrast_id": "1",
+      "id": "19969089-1",
+      "journal": "NeuroImage",
+      "study_id": "19969089",
+      "title": "Volition diminishes genetically mediated amygdala hyperreactivity.",
+      "year": 2010
+    },
+    {
+      "authors": "Yoshino A, Okamoto Y, Onoda K, Yoshimura S, Kunisato Y, Demoto Y, Okada G, Yamawaki S",
+      "contrast_id": "1",
+      "id": "19969094-1",
+      "journal": "NeuroImage",
+      "study_id": "19969094",
+      "title": "Sadness enhances the experience of pain via neural activation in the anterior cingulate cortex and amygdala: an fMRI study.",
+      "year": 2010
+    },
+    {
+      "authors": "Blackford JU, Buckholtz JW, Avery SN, Zald DH",
+      "contrast_id": "1",
+      "id": "20045069-1",
+      "journal": "NeuroImage",
+      "study_id": "20045069",
+      "title": "A unique role for the human amygdala in novelty detection.",
+      "year": 2010
+    },
+    {
+      "authors": "Escarti MJ, de la Iglesia-Vaya M, Marti-Bonmati L, Robles M, Carbonell J, Lull JJ, Garcia-Marti G, Manjon JV, Aguilar EJ, Aleman A, Sanjuan J",
+      "contrast_id": "1",
+      "id": "20071145-1",
+      "journal": "Schizophrenia research",
+      "study_id": "20071145",
+      "title": "Increased amygdala and parahippocampal gyrus activation in schizophrenic patients with auditory hallucinations: an fMRI study using independent component analysis.",
+      "year": 2010
+    },
+    {
+      "authors": "Straube T, Dietrich C, Mothes-Lasch M, Mentzel HJ, Miltner WH",
+      "contrast_id": "1",
+      "id": "20162600-1",
+      "journal": "Human brain mapping",
+      "study_id": "20162600",
+      "title": "The volatility of the amygdala response to masked fearful eyes.",
+      "year": 2010
+    },
+    {
+      "authors": "Gozzi M, Zamboni G, Krueger F, Grafman J",
+      "contrast_id": "1",
+      "id": "20162603-1",
+      "journal": "Human brain mapping",
+      "study_id": "20162603",
+      "title": "Interest in politics modulates neural activity in the amygdala and ventral striatum.",
+      "year": 2010
+    },
+    {
+      "authors": "Hill SY, Tessner K, Wang S, Carter H, McDermott M",
+      "contrast_id": "1",
+      "id": "20236805-1",
+      "journal": "Psychiatry research",
+      "study_id": "20236805",
+      "title": "Temperament at 5 years of age predicts amygdala and orbitofrontal volume in the right hemisphere in adolescence.",
+      "year": 2010
+    },
+    {
+      "authors": "Baeken C, Van Schuerbeek P, De Raedt R, Bossuyt A, Vanderhasselt MA, De Mey J, Luypaert R",
+      "contrast_id": "1",
+      "id": "20452398-1",
+      "journal": "Neuroscience letters",
+      "study_id": "20452398",
+      "title": "Passively viewing negatively valenced baby faces attenuates left amygdala activity in healthy females scoring high on 'Harm Avoidance'.",
+      "year": 2010
+    },
+    {
+      "authors": "Rasch B, Spalek K, Buholzer S, Luechinger R, Boesiger P, de Quervain DJ, Papassotiropoulos A",
+      "contrast_id": "1",
+      "id": "20510373-1",
+      "journal": "NeuroImage",
+      "study_id": "20510373",
+      "title": "Aversive stimuli lead to differential amygdala activation and connectivity patterns depending on catechol-O-methyltransferase Val158Met genotype.",
+      "year": 2010
+    },
+    {
+      "authors": "Hall GB, Doyle KA, Goldberg J, West D, Szatmari P",
+      "contrast_id": "1",
+      "id": "20520836-1",
+      "journal": "PloS one",
+      "study_id": "20520836",
+      "title": "Amygdala engagement in response to subthreshold presentations of anxious face stimuli in adults with autism spectrum disorders: preliminary insights.",
+      "year": 2010
+    },
+    {
+      "authors": "Schlund MW, Cataldo MF",
+      "contrast_id": "1",
+      "id": "20600966-1",
+      "journal": "NeuroImage",
+      "study_id": "20600966",
+      "title": "Amygdala involvement in human avoidance, escape and approach behavior.",
+      "year": 2010
+    },
+    {
+      "authors": "Klumpp H, Angstadt M, Nathan PJ, Phan KL",
+      "contrast_id": "1",
+      "id": "20609570-1",
+      "journal": "Psychiatry research",
+      "study_id": "20609570",
+      "title": "Amygdala reactivity to faces at varying intensities of threat in generalized social phobia: an event-related functional MRI study.",
+      "year": 2010
+    },
+    {
+      "authors": "van Marle HJ, Hermans EJ, Qin S, Fernandez G",
+      "contrast_id": "1",
+      "id": "20621656-1",
+      "journal": "NeuroImage",
+      "study_id": "20621656",
+      "title": "Enhanced resting-state connectivity of amygdala in the immediate aftermath of acute psychological stress.",
+      "year": 2010
+    },
+    {
+      "authors": "Blackford JU, Avery SN, Cowan RL, Shelton RC, Zald DH",
+      "contrast_id": "1",
+      "id": "20660534-1",
+      "journal": "Social cognitive and affective neuroscience",
+      "study_id": "20660534",
+      "title": "Sustained amygdala response to both novel and newly familiar faces characterizes  inhibited temperament.",
+      "year": 2011
+    },
+    {
+      "authors": "Iidaka T, Harada T, Sadato N",
+      "contrast_id": "1",
+      "id": "20693390-1",
+      "journal": "Social cognitive and affective neuroscience",
+      "study_id": "20693390",
+      "title": "Forming a negative impression of another person correlates with activation in medial prefrontal cortex and amygdala.",
+      "year": 2011
+    },
+    {
+      "authors": "Townsend JD, Eberhart NK, Bookheimer SY, Eisenberger NI, Foland-Ross LC, Cook IA, Sugar CA, Altshuler LL",
+      "contrast_id": "1",
+      "id": "20708906-1",
+      "journal": "Psychiatry research",
+      "study_id": "20708906",
+      "title": "fMRI activation in the amygdala and the orbitofrontal cortex in unmedicated subjects with major depressive disorder.",
+      "year": 2010
+    },
+    {
+      "authors": "Said CP, Dotsch R, Todorov A",
+      "contrast_id": "1",
+      "id": "20727365-1",
+      "journal": "Neuropsychologia",
+      "study_id": "20727365",
+      "title": "The amygdala and FFA track both social and non-social face dimensions.",
+      "year": 2010
+    },
+    {
+      "authors": "Demos KE, Kelley WM, Heatherton TF",
+      "contrast_id": "1",
+      "id": "20807052-1",
+      "journal": "Journal of cognitive neuroscience",
+      "study_id": "20807052",
+      "title": "Dietary restraint violations influence reward responses in nucleus accumbens and  amygdala.",
+      "year": 2011
+    },
+    {
+      "authors": "Henckens MJ, van Wingen GA, Joels M, Fernandez G",
+      "contrast_id": "1",
+      "id": "20861377-1",
+      "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+      "study_id": "20861377",
+      "title": "Time-dependent effects of corticosteroids on human amygdala processing.",
+      "year": 2010
+    },
+    {
+      "authors": "Dyck M, Loughead J, Kellermann T, Boers F, Gur RC, Mathiak K",
+      "contrast_id": "1",
+      "id": "20946960-1",
+      "journal": "NeuroImage",
+      "study_id": "20946960",
+      "title": "Cognitive versus automatic mechanisms of mood induction differentially activate left and right amygdala.",
+      "year": 2011
+    },
+    {
+      "authors": "Fletcher PC, Napolitano A, Skeggs A, Miller SR, Delafont B, Cambridge VC, de Wit S, Nathan PJ, Brooke A, O'Rahilly S, Farooqi IS, Bullmore ET",
+      "contrast_id": "1",
+      "id": "20980590-1",
+      "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+      "study_id": "20980590",
+      "title": "Distinct modulatory effects of satiety and sibutramine on brain responses to food images in humans: a double dissociation across hypothalamus, amygdala, and ventral striatum.",
+      "year": 2010
+    },
+    {
+      "authors": "Baron SG, Gobbini MI, Engell AD, Todorov A",
+      "contrast_id": "1",
+      "id": "21030482-1",
+      "journal": "Social cognitive and affective neuroscience",
+      "study_id": "21030482",
+      "title": "Amygdala and dorsomedial prefrontal cortex responses to appearance-based and behavior-based person impressions.",
+      "year": 2011
+    },
+    {
+      "authors": "Santos A, Mier D, Kirsch P, Meyer-Lindenberg A",
+      "contrast_id": "1",
+      "id": "21081170-1",
+      "journal": "NeuroImage",
+      "study_id": "21081170",
+      "title": "Evidence for a general face salience signal in human amygdala.",
+      "year": 2011
+    },
+    {
+      "authors": "van Marle HJ, Tendolkar I, Urner M, Verkes RJ, Fernandez G, van Wingen G",
+      "contrast_id": "1",
+      "id": "21195195-1",
+      "journal": "NeuroImage",
+      "study_id": "21195195",
+      "title": "Subchronic duloxetine administration alters the extended amygdala circuitry in healthy individuals.",
+      "year": 2011
+    },
+    {
+      "authors": "Lemogne C, Gorwood P, Boni C, Pessiglione M, Lehericy S, Fossati P",
+      "contrast_id": "1",
+      "id": "21246665-1",
+      "journal": "Human brain mapping",
+      "study_id": "21246665",
+      "title": "Cognitive appraisal and life stress moderate the effects of the 5-HTTLPR polymorphism on amygdala reactivity.",
+      "year": 2011
+    },
+    {
+      "authors": "Davey CG, Allen NB, Harrison BJ, Yucel M",
+      "contrast_id": "1",
+      "id": "21257158-1",
+      "journal": "Biological psychiatry",
+      "study_id": "21257158",
+      "title": "Increased amygdala response to positive social feedback in young people with major depressive disorder.",
+      "year": 2011
+    },
+    {
+      "authors": "Kensinger EA, Addis DR, Atapattu RK",
+      "contrast_id": "1",
+      "id": "21262244-1",
+      "journal": "Neuropsychologia",
+      "study_id": "21262244",
+      "title": "Amygdala activity at encoding corresponds with memory vividness and with memory for select episodic details.",
+      "year": 2011
+    },
+    {
+      "authors": "Clauss JA, Cowan RL, Blackford JU",
+      "contrast_id": "1",
+      "id": "21264642-1",
+      "journal": "Cognitive, affective & behavioral neuroscience",
+      "study_id": "21264642",
+      "title": "Expectation and temperament moderate amygdala and dorsal anterior cingulate cortex responses to fear faces.",
+      "year": 2011
+    },
+    {
+      "authors": "Joos AA, Saum B, van Elst LT, Perlov E, Glauche V, Hartmann A, Freyer T, Tuscher O, Zeeck A",
+      "contrast_id": "1",
+      "id": "21316204-1",
+      "journal": "Psychiatry research",
+      "study_id": "21316204",
+      "title": "Amygdala hyperreactivity in restrictive anorexia nervosa.",
+      "year": 2011
+    },
+    {
+      "authors": "Lonsdorf TB, Golkar A, Lindstom KM, Fransson P, Schalling M, Ohman A, Ingvar M",
+      "contrast_id": "1",
+      "id": "21356267-1",
+      "journal": "Biological psychology",
+      "study_id": "21356267",
+      "title": "5-HTTLPR and COMTval158met genotype gate amygdala reactivity and habituation.",
+      "year": 2011
+    },
+    {
+      "authors": "Hahn A, Stein P, Windischberger C, Weissenbacher A, Spindelegger C, Moser E, Kasper S, Lanzenberger R",
+      "contrast_id": "1",
+      "id": "21356318-1",
+      "journal": "NeuroImage",
+      "study_id": "21356318",
+      "title": "Reduced resting-state functional connectivity between amygdala and orbitofrontal  cortex in social anxiety disorder.",
+      "year": 2011
+    },
+    {
+      "authors": "Passarotti AM, Sweeney JA, Pavuluri MN",
+      "contrast_id": "1",
+      "id": "21390505-1",
+      "journal": "Psychopharmacology",
+      "study_id": "21390505",
+      "title": "Fronto-limbic dysfunction in mania pre-treatment and persistent amygdala over-activity post-treatment in pediatric bipolar disorder.",
+      "year": 2011
+    },
+    {
+      "authors": "Amemiya S, Ohtomo K",
+      "contrast_id": "1",
+      "id": "21421732-1",
+      "journal": "Social cognitive and affective neuroscience",
+      "study_id": "21421732",
+      "title": "Effect of the observed pupil size on the amygdala of the beholders.",
+      "year": 2012
+    },
+    {
+      "authors": "El Khoury-Malhame M, Reynaud E, Soriano A, Michael K, Salgado-Pineda P, Zendjidjian X, Gellato C, Eric F, Lefebvre MN, Rouby F, Samuelian JC, Anton JL, Blin O, Khalfa S",
+      "contrast_id": "1",
+      "id": "21440563-1",
+      "journal": "Neuropsychologia",
+      "study_id": "21440563",
+      "title": "Amygdala activity correlates with attentional bias in PTSD.",
+      "year": 2011
+    },
+    {
+      "authors": "Riem MM, Bakermans-Kranenburg MJ, Pieper S, Tops M, Boksem MA, Vermeiren RR, van Ijzendoorn MH, Rombouts SA",
+      "contrast_id": "1",
+      "id": "21470595-1",
+      "journal": "Biological psychiatry",
+      "study_id": "21470595",
+      "title": "Oxytocin modulates amygdala, insula, and inferior frontal gyrus responses to infant crying: a randomized controlled trial.",
+      "year": 2011
+    },
+    {
+      "authors": "Herrington JD, Taylor JM, Grupe DW, Curby KM, Schultz RT",
+      "contrast_id": "1",
+      "id": "21497657-1",
+      "journal": "NeuroImage",
+      "study_id": "21497657",
+      "title": "Bidirectional communication between amygdala and fusiform gyrus during facial recognition.",
+      "year": 2011
+    },
+    {
+      "authors": "Veer IM, Oei NY, Spinhoven P, van Buchem MA, Elzinga BM, Rombouts SA",
+      "contrast_id": "1",
+      "id": "21664280-1",
+      "journal": "NeuroImage",
+      "study_id": "21664280",
+      "title": "Beyond acute social stress: increased functional connectivity between amygdala and cortical midline structures.",
+      "year": 2011
+    },
+    {
+      "authors": "Adams RB Jr, Franklin RG Jr, Kveraga K, Ambady N, Kleck RE, Whalen PJ, Hadjikhani N, Nelson AJ",
+      "contrast_id": "1",
+      "id": "21666261-1",
+      "journal": "Social cognitive and affective neuroscience",
+      "study_id": "21666261",
+      "title": "Amygdala responses to averted vs direct gaze fear vary as a function of presentation speed.",
+      "year": 2012
+    },
+    {
+      "authors": "Kujala MV, Carlson S, Hari R",
+      "contrast_id": "1",
+      "id": "21674692-1",
+      "journal": "Human brain mapping",
+      "study_id": "21674692",
+      "title": "Engagement of amygdala in third-person view of face-to-face interaction.",
+      "year": 2012
+    },
+    {
+      "authors": "Boccardi M, Frisoni GB, Hare RD, Cavedo E, Najt P, Pievani M, Rasser PE, Laakso MP, Aronen HJ, Repo-Tiihonen E, Vaurio O, Thompson PM, Tiihonen J",
+      "contrast_id": "1",
+      "id": "21676597-1",
+      "journal": "Psychiatry research",
+      "study_id": "21676597",
+      "title": "Cortex and amygdala morphology in psychopathy.",
+      "year": 2011
+    },
+    {
+      "authors": "Bach DR, Weiskopf N, Dolan RJ",
+      "contrast_id": "1",
+      "id": "21697388-1",
+      "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+      "study_id": "21697388",
+      "title": "A stable sparse fear memory trace in human amygdala.",
+      "year": 2011
+    },
+    {
+      "authors": "Gillihan SJ, Rao H, Brennan L, Wang DJ, Detre JA, Sankoorikal GM, Brodkin ES, Farah MJ",
+      "contrast_id": "1",
+      "id": "21764567-1",
+      "journal": "Psychiatry research",
+      "study_id": "21764567",
+      "title": "Serotonin transporter genotype modulates the association between depressive symptoms and amygdala activity among psychiatrically healthy adults.",
+      "year": 2011
+    },
+    {
+      "authors": "Foland-Ross LC, Bookheimer SY, Lieberman MD, Sugar CA, Townsend JD, Fischer J, Torrisi S, Penfold C, Madsen SK, Thompson PM, Altshuler LL",
+      "contrast_id": "1",
+      "id": "21854858-1",
+      "journal": "NeuroImage",
+      "study_id": "21854858",
+      "title": "Normal amygdala activation but deficient ventrolateral prefrontal activation in adults with bipolar disorder during euthymia.",
+      "year": 2012
+    },
+    {
+      "authors": "Zhong M, Wang X, Xiao J, Yi J, Zhu X, Liao J, Wang W, Yao S",
+      "contrast_id": "1",
+      "id": "21878364-1",
+      "journal": "Biological psychology",
+      "study_id": "21878364",
+      "title": "Amygdala hyperactivation and prefrontal hypoactivation in subjects with cognitive vulnerability to depression.",
+      "year": 2011
+    },
+    {
+      "authors": "Zotev V, Krueger F, Phillips R, Alvarez RP, Simmons WK, Bellgowan P, Drevets WC, Bodurka J",
+      "contrast_id": "1",
+      "id": "21931738-1",
+      "journal": "PloS one",
+      "study_id": "21931738",
+      "title": "Self-regulation of amygdala activation using real-time FMRI neurofeedback.",
+      "year": 2011
+    },
+    {
+      "authors": "Avery SN, Thornton-Wells TA, Anderson AW, Blackford JU",
+      "contrast_id": "1",
+      "id": "22008369-1",
+      "journal": "NeuroImage",
+      "study_id": "22008369",
+      "title": "White matter integrity deficits in prefrontal-amygdala pathways in Williams syndrome.",
+      "year": 2012
+    },
+    {
+      "authors": "Mukherjee P, Whalley HC, McKirdy JW, McIntosh AM, Johnstone EC, Lawrie SM, Hall J",
+      "contrast_id": "1",
+      "id": "22019361-1",
+      "journal": "Schizophrenia research",
+      "study_id": "22019361",
+      "title": "Lower effective connectivity between amygdala and parietal regions in response to fearful faces in schizophrenia.",
+      "year": 2012
+    },
+    {
+      "authors": "Marsh AA, Finger EC, Fowler KA, Jurkowitz IT, Schechter JC, Yu HH, Pine DS, Blair RJ",
+      "contrast_id": "1",
+      "id": "22047730-1",
+      "journal": "Psychiatry research",
+      "study_id": "22047730",
+      "title": "Reduced amygdala-orbitofrontal connectivity during moral judgments in youths with disruptive behavior disorders and psychopathic traits.",
+      "year": 2011
+    },
+    {
+      "authors": "Henckens MJ, van Wingen GA, Joels M, Fernandez G",
+      "contrast_id": "1",
+      "id": "22079927-1",
+      "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+      "study_id": "22079927",
+      "title": "Corticosteroid induced decoupling of the amygdala in men.",
+      "year": 2012
+    },
+    {
+      "authors": "Miyahara M, Harada T, Ruffman T, Sadato N, Iidaka T",
+      "contrast_id": "1",
+      "id": "22156740-1",
+      "journal": "Social cognitive and affective neuroscience",
+      "study_id": "22156740",
+      "title": "Functional connectivity between amygdala and facial regions involved in recognition of facial threat.",
+      "year": 2013
+    },
+    {
+      "authors": "Tian L, Meng C, Yan H, Zhao Q, Liu Q, Yan J, Han Y, Yuan H, Wang L, Yue W, Zhang Y, Li X, Zhu C, He Y, Zhang D",
+      "contrast_id": "1",
+      "id": "22174900-1",
+      "journal": "PloS one",
+      "study_id": "22174900",
+      "title": "Convergent evidence from multimodal imaging reveals amygdala abnormalities in schizophrenic patients and their first-degree relatives.",
+      "year": 2011
+    },
+    {
+      "authors": "Oltmanns KM, Heldmann M, Daul S, Klose S, Rotte M, Schafer M, Heinze HJ, Munte TF, Lehnert H",
+      "contrast_id": "1",
+      "id": "22193727-1",
+      "journal": "Psychopharmacology",
+      "study_id": "22193727",
+      "title": "Sibutramine promotes amygdala activity under fasting conditions in obese women.",
+      "year": 2012
+    },
+    {
+      "authors": "Pejic T, Hermann A, Vaitl D, Stark R",
+      "contrast_id": "1",
+      "id": "22198970-1",
+      "journal": "Social cognitive and affective neuroscience",
+      "study_id": "22198970",
+      "title": "Social anxiety modulates amygdala activation during social conditioning.",
+      "year": 2013
+    },
+    {
+      "authors": "Elman I, Becerra L, Tschibelu E, Yamamoto R, George E, Borsook D",
+      "contrast_id": "1",
+      "id": "22319607-1",
+      "journal": "PloS one",
+      "study_id": "22319607",
+      "title": "Yohimbine-induced amygdala activation in pathological gamblers: a pilot study.",
+      "year": 2012
+    },
+    {
+      "authors": "Aas M, Navari S, Gibbs A, Mondelli V, Fisher HL, Morgan C, Morgan K, MacCabe J, Reichenberg A, Zanelli J, Fearon P, Jones PB, Murray RM, Pariante CM, Dazzan P",
+      "contrast_id": "1",
+      "id": "22353995-1",
+      "journal": "Schizophrenia research",
+      "study_id": "22353995",
+      "title": "Is there a link between childhood trauma, cognition, and amygdala and hippocampus volume in first-episode psychosis?",
+      "year": 2012
+    },
+    {
+      "authors": "Domschke K, Baune BT, Havlik L, Stuhrmann A, Suslow T, Kugel H, Zwanzger P, Grotegerd D, Sehlmeyer C, Arolt V, Dannlowski U",
+      "contrast_id": "1",
+      "id": "22387174-1",
+      "journal": "NeuroImage",
+      "study_id": "22387174",
+      "title": "Catechol-O-methyltransferase gene variation: impact on amygdala response to aversive stimuli.",
+      "year": 2012
+    },
+    {
+      "authors": "Mingtian Z, Shuqiao Y, Xiongzhao Z, Jinyao Y, Xueling Z, Xiang W, Yingzi L, Jian L, Wei W",
+      "contrast_id": "1",
+      "id": "22398297-1",
+      "journal": "Psychiatry research",
+      "study_id": "22398297",
+      "title": "Elevated amygdala activity to negative faces in young adults with early onset major depressive disorder.",
+      "year": 2012
+    },
+    {
+      "authors": "Alexander N, Klucken T, Koppe G, Osinsky R, Walter B, Vaitl D, Sammer G, Stark R, Hennig J",
+      "contrast_id": "1",
+      "id": "22418015-1",
+      "journal": "Biological psychiatry",
+      "study_id": "22418015",
+      "title": "Interaction of the serotonin transporter-linked polymorphic region and environmental adversity: increased amygdala-hypothalamus connectivity as a potential mechanism linking neural and endocrine hyper",
+      "year": 2012
+    },
+    {
+      "authors": "Oler JA, Birn RM, Patriat R, Fox AS, Shelton SE, Burghy CA, Stodola DE, Essex MJ, Davidson RJ, Kalin NH",
+      "contrast_id": "1",
+      "id": "22465841-1",
+      "journal": "NeuroImage",
+      "study_id": "22465841",
+      "title": "Evidence for coordinated functional activity within the extended amygdala of non-human and human primates.",
+      "year": 2012
+    },
+    {
+      "authors": "Li Y, Qin W, Jiang T, Zhang Y, Yu C",
+      "contrast_id": "1",
+      "id": "22558274-1",
+      "journal": "PloS one",
+      "study_id": "22558274",
+      "title": "Sex-dependent correlations between the personality dimension of harm avoidance and the resting-state functional connectivity of amygdala subregions.",
+      "year": 2012
+    },
+    {
+      "authors": "Li S, Zou Q, Li J, Li J, Wang D, Yan C, Dong Q, Zang YF",
+      "contrast_id": "1",
+      "id": "22574175-1",
+      "journal": "PloS one",
+      "study_id": "22574175",
+      "title": "5-HTTLPR polymorphism impacts task-evoked and resting-state activities of the amygdala in Han Chinese.",
+      "year": 2012
+    },
+    {
+      "authors": "Yang J, Cao Z, Xu X, Chen G",
+      "contrast_id": "1",
+      "id": "22626918-1",
+      "journal": "Brain and cognition",
+      "study_id": "22626918",
+      "title": "The amygdala is involved in affective priming effect for fearful faces.",
+      "year": 2012
+    },
+    {
+      "authors": "Murty VP, Labar KS, Adcock RA",
+      "contrast_id": "1",
+      "id": "22745496-1",
+      "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+      "study_id": "22745496",
+      "title": "Threat of punishment motivates memory encoding via amygdala, not midbrain, interactions with the medial temporal lobe.",
+      "year": 2012
+    },
+    {
+      "authors": "Baeken C, Van Schuerbeek P, De Raedt R, Vanderhasselt MA, De Mey J, Bossuyt A, Luypaert R",
+      "contrast_id": "1",
+      "id": "22929607-1",
+      "journal": "Brain and cognition",
+      "study_id": "22929607",
+      "title": "Stress sensitive healthy females show less left amygdala activation in response to withdrawal-related visual stimuli under passive viewing conditions.",
+      "year": 2012
+    },
+    {
+      "authors": "Bobes MA, Ostrosky F, Diaz K, Romero C, Borja K, Santos Y, Valdes-Sosa M",
+      "contrast_id": "1",
+      "id": "22956672-1",
+      "journal": "Social cognitive and affective neuroscience",
+      "study_id": "22956672",
+      "title": "Linkage of functional and structural anomalies in the left amygdala of reactive-aggressive men.",
+      "year": 2013
+    },
+    {
+      "authors": "Anticevic A, Brumbaugh MS, Winkler AM, Lombardo LE, Barrett J, Corlett PR, Kober H, Gruber J, Repovs G, Cole MW, Krystal JH, Pearlson GD, Glahn DC",
+      "contrast_id": "1",
+      "id": "22980587-1",
+      "journal": "Biological psychiatry",
+      "study_id": "22980587",
+      "title": "Global prefrontal and fronto-amygdala dysconnectivity in bipolar I disorder with  psychosis history.",
+      "year": 2013
+    },
+    {
+      "authors": "Troiani V, Price ET, Schultz RT",
+      "contrast_id": "1",
+      "id": "23051897-1",
+      "journal": "Social cognitive and affective neuroscience",
+      "study_id": "23051897",
+      "title": "Unseen fearful faces promote amygdala guidance of attention.",
+      "year": 2014
+    },
+    {
+      "authors": "Telzer EH, Humphreys KL, Shapiro M, Tottenham N",
+      "contrast_id": "1",
+      "id": "23066731-1",
+      "journal": "Journal of cognitive neuroscience",
+      "study_id": "23066731",
+      "title": "Amygdala sensitivity to race is not present in childhood but emerges over adolescence.",
+      "year": 2013
+    },
+    {
+      "authors": "Bickart KC, Hollenbeck MC, Barrett LF, Dickerson BC",
+      "contrast_id": "1",
+      "id": "23077058-1",
+      "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+      "study_id": "23077058",
+      "title": "Intrinsic amygdala-cortical functional connectivity predicts social network size  in humans.",
+      "year": 2012
+    },
+    {
+      "authors": "Simons LE, Moulton EA, Linnman C, Carpino E, Becerra L, Borsook D",
+      "contrast_id": "1",
+      "id": "23097300-1",
+      "journal": "Human brain mapping",
+      "study_id": "23097300",
+      "title": "The human amygdala and pain: evidence from neuroimaging.",
+      "year": 2014
+    },
+    {
+      "authors": "Kim SY, Burris J, Bassal F, Koldewyn K, Chattarji S, Tassone F, Hessl D, Rivera SM",
+      "contrast_id": "1",
+      "id": "23146966-1",
+      "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+      "study_id": "23146966",
+      "title": "Fear-specific amygdala function in children and adolescents on the fragile x spectrum: a dosage response of the FMR1 gene.",
+      "year": 2014
+    },
+    {
+      "authors": "Sladky R, Hoflich A, Atanelov J, Kraus C, Baldinger P, Moser E, Lanzenberger R, Windischberger C",
+      "contrast_id": "1",
+      "id": "23209643-1",
+      "journal": "PloS one",
+      "study_id": "23209643",
+      "title": "Increased neural habituation in the amygdala and orbitofrontal cortex in social anxiety disorder revealed by FMRI.",
+      "year": 2012
+    },
+    {
+      "authors": "Lee MC, Ploner M, Wiech K, Bingel U, Wanigasekera V, Brooks J, Menon DK, Tracey I",
+      "contrast_id": "1",
+      "id": "23273106-1",
+      "journal": "Pain",
+      "study_id": "23273106",
+      "title": "Amygdala activity contributes to the dissociative effect of cannabis on pain perception.",
+      "year": 2013
+    },
+    {
+      "authors": "Boll S, Gamer M, Gluth S, Finsterbusch J, Buchel C",
+      "contrast_id": "1",
+      "id": "23278978-1",
+      "journal": "The European journal of neuroscience",
+      "study_id": "23278978",
+      "title": "Separate amygdala subregions signal surprise and predictiveness during associative fear learning in humans.",
+      "year": 2013
+    },
+    {
+      "authors": "Vrticka P, Sander D, Vuilleumier P",
+      "contrast_id": "1",
+      "id": "23346054-1",
+      "journal": "Frontiers in human neuroscience",
+      "study_id": "23346054",
+      "title": "Lateralized interactive social content and valence processing within the human amygdala.",
+      "year": 2012
+    },
+    {
+      "authors": "Grabenhorst F, Schulte FP, Maderwald S, Brand M",
+      "contrast_id": "1",
+      "id": "23428568-1",
+      "journal": "NeuroImage",
+      "study_id": "23428568",
+      "title": "Food labels promote healthy choices by a decision bias in the amygdala.",
+      "year": 2013
+    },
+    {
+      "authors": "Tesli M, Skatun KC, Ousdal OT, Brown AA, Thoresen C, Agartz I, Melle I, Djurovic S, Jensen J, Andreassen OA",
+      "contrast_id": "1",
+      "id": "23437284-1",
+      "journal": "PloS one",
+      "study_id": "23437284",
+      "title": "CACNA1C risk variant and amygdala activity in bipolar disorder, schizophrenia and healthy controls.",
+      "year": 2013
+    },
+    {
+      "authors": "Sakaki M, Nga L, Mather M",
+      "contrast_id": "1",
+      "id": "23530897-1",
+      "journal": "Journal of cognitive neuroscience",
+      "study_id": "23530897",
+      "title": "Amygdala functional connectivity with medial prefrontal cortex at rest predicts the positivity effect in older adults' memory.",
+      "year": 2013
+    },
+    {
+      "authors": "Robinson OJ, Overstreet C, Allen PS, Letkiewicz A, Vytal K, Pine DS, Grillon C",
+      "contrast_id": "1",
+      "id": "23583742-1",
+      "journal": "NeuroImage",
+      "study_id": "23583742",
+      "title": "The role of serotonin in the neurocircuitry of negative affective bias: serotonergic modulation of the dorsal medial prefrontal-amygdala 'aversive amplification' circuit.",
+      "year": 2013
+    },
+    {
+      "authors": "Gorka SM, Fitzgerald DA, King AC, Phan KL",
+      "contrast_id": "1",
+      "id": "23584670-1",
+      "journal": "Psychopharmacology",
+      "study_id": "23584670",
+      "title": "Alcohol attenuates amygdala-frontal connectivity during processing social signals in heavy social drinkers: a preliminary pharmaco-fMRI study.",
+      "year": 2013
+    },
+    {
+      "authors": "Costafreda SG, McCann P, Saker P, Cole JH, Cohen-Woods S, Farmer AE, Aitchison KJ, McGuffin P, Fu CH",
+      "contrast_id": "1",
+      "id": "23643106-1",
+      "journal": "Journal of affective disorders",
+      "study_id": "23643106",
+      "title": "Modulation of amygdala response and connectivity in depression by serotonin transporter polymorphism and diagnosis.",
+      "year": 2013
+    },
+    {
+      "authors": "Koelsch S, Skouras S, Fritz T, Herrera P, Bonhage C, Kussner MB, Jacobs AM",
+      "contrast_id": "1",
+      "id": "23684870-1",
+      "journal": "NeuroImage",
+      "study_id": "23684870",
+      "title": "The roles of superficial amygdala and auditory cortex in music-evoked fear and joy.",
+      "year": 2013
+    },
+    {
+      "authors": "Troiani V, Schultz RT",
+      "contrast_id": "1",
+      "id": "23761748-1",
+      "journal": "Frontiers in human neuroscience",
+      "study_id": "23761748",
+      "title": "Amygdala, pulvinar, and inferior parietal cortex contribute to early processing of faces without awareness.",
+      "year": 2013
+    },
+    {
+      "authors": "Burra N, Hervais-Adelman A, Kerzel D, Tamietto M, de Gelder B, Pegna AJ",
+      "contrast_id": "1",
+      "id": "23785160-1",
+      "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+      "study_id": "23785160",
+      "title": "Amygdala activation for eye contact despite complete cortical blindness.",
+      "year": 2013
+    },
+    {
+      "authors": "Carlson JM, Cha J, Mujica-Parodi LR",
+      "contrast_id": "1",
+      "id": "23954317-1",
+      "journal": "Cortex; a journal devoted to the study of the nervous system and behavior",
+      "study_id": "23954317",
+      "title": "Functional and structural amygdala - anterior cingulate connectivity correlates with attentional bias to masked fearful faces.",
+      "year": 2013
+    },
+    {
+      "authors": "Swartz JR, Carrasco M, Wiggins JL, Thomason ME, Monk CS",
+      "contrast_id": "1",
+      "id": "23959199-1",
+      "journal": "NeuroImage",
+      "study_id": "23959199",
+      "title": "Age-related changes in the structure and function of prefrontal cortex-amygdala circuitry in children and adolescents: a multi-modal imaging approach.",
+      "year": 2014
+    },
+    {
+      "authors": "Mende-Siedlecki P, Verosky SC, Turk-Browne NB, Todorov A",
+      "contrast_id": "1",
+      "id": "23984945-1",
+      "journal": "Journal of cognitive neuroscience",
+      "study_id": "23984945",
+      "title": "Robust selectivity for faces in the human amygdala in the absence of expressions.",
+      "year": 2013
+    },
+    {
+      "authors": "Pohl A, Anders S, Schulte-Ruther M, Mathiak K, Kircher T",
+      "contrast_id": "1",
+      "id": "23990890-1",
+      "journal": "PloS one",
+      "study_id": "23990890",
+      "title": "Positive facial affect - an fMRI study on the involvement of insula and amygdala.",
+      "year": 2013
+    },
+    {
+      "authors": "Peters J, Miedl SF, Buchel C",
+      "contrast_id": "1",
+      "id": "24023940-1",
+      "journal": "PloS one",
+      "study_id": "24023940",
+      "title": "Elevated functional connectivity in a striatal-amygdala circuit in pathological gamblers.",
+      "year": 2013
+    },
+    {
+      "authors": "Doucet GE, Skidmore C, Sharan AD, Sperling MR, Tracy JI",
+      "contrast_id": "1",
+      "id": "24036129-1",
+      "journal": "Brain and cognition",
+      "study_id": "24036129",
+      "title": "Functional connectivity abnormalities vary by amygdala subdivision and are associated with psychiatric symptoms in unilateral temporal epilepsy.",
+      "year": 2013
+    },
+    {
+      "authors": "Andreano JM, Dickerson BC, Barrett LF",
+      "contrast_id": "1",
+      "id": "24036962-1",
+      "journal": "Social cognitive and affective neuroscience",
+      "study_id": "24036962",
+      "title": "Sex differences in the persistence of the amygdala response to negative material.",
+      "year": 2013
+    },
+    {
+      "authors": "Tahmasian M, Knight DC, Manoliu A, Schwerthoffer D, Scherr M, Meng C, Shao J, Peters H, Doll A, Khazaie H, Drzezga A, Bauml J, Zimmer C, Forstl H, Wohlschlager AM, Riedl V, Sorg C",
+      "contrast_id": "1",
+      "id": "24101900-1",
+      "journal": "Frontiers in human neuroscience",
+      "study_id": "24101900",
+      "title": "Aberrant intrinsic connectivity of hippocampus and amygdala overlap in the fronto-insular and dorsomedial-prefrontal cortex in major depressive disorder.",
+      "year": 2013
+    },
+    {
+      "authors": "Denny BT, Fan J, Liu X, Guerreri S, Mayson SJ, Rimsky L, New AS, Siever LJ, Koenigsberg HW",
+      "contrast_id": "1",
+      "id": "24170933-1",
+      "journal": "Social cognitive and affective neuroscience",
+      "study_id": "24170933",
+      "title": "Insula-amygdala functional connectivity is correlated with habituation to repeated negative images.",
+      "year": 2013
+    },
+    {
+      "authors": "Feng P, Feng T, Chen Z, Lei X",
+      "contrast_id": "1",
+      "id": "24194579-1",
+      "journal": "Social cognitive and affective neuroscience",
+      "study_id": "24194579",
+      "title": "Memory consolidation of fear conditioning: Bi-stable amygdala connectivity with dorsal anterior cingulate and medial prefrontal cortex.",
+      "year": 2013
+    },
+    {
+      "authors": "Sripada RK, Welsh RC, Marx CE, Liberzon I",
+      "contrast_id": "1",
+      "id": "24302681-1",
+      "journal": "Human brain mapping",
+      "study_id": "24302681",
+      "title": "The neurosteroids allopregnanolone and dehydroepiandrosterone modulate resting-state amygdala connectivity.",
+      "year": 2013
+    },
+    {
+      "authors": "Aghajani M, Veer IM, van Tol MJ, Aleman A, van Buchem MA, Veltman DJ, Rombouts SA, van der Wee NJ",
+      "contrast_id": "1",
+      "id": "24352685-1",
+      "journal": "Cognitive, affective & behavioral neuroscience",
+      "study_id": "24352685",
+      "title": "Neuroticism and extraversion are associated with amygdala resting-state functional connectivity.",
+      "year": 2014
+    },
+    {
+      "authors": "Mothersill O, Morris DW, Kelly S, Rose EJ, Fahey C, O'Brien C, Lyne R, Reilly R, Gill M, Corvin AP, Donohoe G",
+      "contrast_id": "1",
+      "id": "24361663-1",
+      "journal": "NeuroImage",
+      "study_id": "24361663",
+      "title": "Effects of MIR137 on fronto-amygdala functional connectivity.",
+      "year": 2014
+    },
+    {
+      "authors": "Pinabiaux C, Hertz-Pannier L, Chiron C, Rodrigo S, Jambaque I, Noulhiane M",
+      "contrast_id": "1",
+      "id": "24399958-1",
+      "journal": "Frontiers in human neuroscience",
+      "study_id": "24399958",
+      "title": "Memory for fearful faces across development: specialization of amygdala nuclei and medial temporal lobe structures.",
+      "year": 2013
+    },
+    {
+      "authors": "Harris RJ, Young AW, Andrews TJ",
+      "contrast_id": "1",
+      "id": "24447769-1",
+      "journal": "Neuropsychologia",
+      "study_id": "24447769",
+      "title": "Dynamic stimuli demonstrate a categorical representation of facial expression in  the amygdala.",
+      "year": 2014
+    },
+    {
+      "authors": "Von Der Heide R, Vyas G, Olson IR",
+      "contrast_id": "1",
+      "id": "24493846-1",
+      "journal": "Social cognitive and affective neuroscience",
+      "study_id": "24493846",
+      "title": "The social network-network: size is predicted by brain structure and function in  the amygdala and paralimbic regions.",
+      "year": 2014
+    },
+    {
+      "authors": "Young KD, Zotev V, Phillips R, Misaki M, Yuan H, Drevets WC, Bodurka J",
+      "contrast_id": "1",
+      "id": "24523939-1",
+      "journal": "PloS one",
+      "study_id": "24523939",
+      "title": "Real-time FMRI neurofeedback training of amygdala activity in patients with major depressive disorder.",
+      "year": 2014
+    },
+    {
+      "authors": "Blackford JU, Clauss JA, Avery SN, Cowan RL, Benningfield MM, VanDerKlok RM",
+      "contrast_id": "1",
+      "id": "24534162-1",
+      "journal": "Biological psychology",
+      "study_id": "24534162",
+      "title": "Amygdala-cingulate intrinsic connectivity is associated with degree of social inhibition.",
+      "year": 2014
+    },
+    {
+      "authors": "Haruno M, Kimura M, Frith CD",
+      "contrast_id": "1",
+      "id": "24564471-1",
+      "journal": "Journal of cognitive neuroscience",
+      "study_id": "24564471",
+      "title": "Activity in the nucleus accumbens and amygdala underlies individual differences in prosocial and individualistic economic choices.",
+      "year": 2014
+    },
+    {
+      "authors": "Gabard-Durnam LJ, Flannery J, Goff B, Gee DG, Humphreys KL, Telzer E, Hare T, Tottenham N",
+      "contrast_id": "1",
+      "id": "24662579-1",
+      "journal": "NeuroImage",
+      "study_id": "24662579",
+      "title": "The development of human amygdala functional connectivity at rest from 4 to 23years: A cross-sectional study.",
+      "year": 2014
+    },
+    {
+      "authors": "Heller AS, Lapate RC, Mayer KE, Davidson RJ",
+      "contrast_id": "1",
+      "id": "24669790-1",
+      "journal": "Journal of cognitive neuroscience",
+      "study_id": "24669790",
+      "title": "The face of negative affect: trial-by-trial corrugator responses to negative pictures are positively associated with amygdala and negatively associated with ventromedial prefrontal cortex activity.",
+      "year": 2014
+    },
+    {
+      "authors": "Shenhav A, Greene JD",
+      "contrast_id": "1",
+      "id": "24672018-1",
+      "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+      "study_id": "24672018",
+      "title": "Integrative moral judgment: dissociating the roles of the amygdala and ventromedial prefrontal cortex.",
+      "year": 2014
+    },
+    {
+      "authors": "Motzkin JC, Philippi CL, Wolf RC, Baskaya MK, Koenigs M",
+      "contrast_id": "1",
+      "id": "24673881-1",
+      "journal": "Biological psychiatry",
+      "study_id": "24673881",
+      "title": "Ventromedial Prefrontal Cortex Is Critical for the Regulation of Amygdala Activity in Humans.",
+      "year": 2014
+    },
+    {
+      "authors": "Gilman JM, Kuster JK, Lee S, Lee MJ, Kim BW, Makris N, van der Kouwe A, Blood AJ, Breiter HC",
+      "contrast_id": "1",
+      "id": "24741043-1",
+      "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+      "study_id": "24741043",
+      "title": "Cannabis use is quantitatively associated with nucleus accumbens and amygdala abnormalities in young adult recreational users.",
+      "year": 2014
+    },
+    {
+      "authors": "Redlich R, Grotegerd D, Opel N, Kaufmann C, Zwitserlood P, Kugel H, Heindel W, Donges US, Suslow T, Arolt V, Dannlowski U",
+      "contrast_id": "1",
+      "id": "24752071-1",
+      "journal": "Social cognitive and affective neuroscience",
+      "study_id": "24752071",
+      "title": "Are you gonna leave me? Separation anxiety is associated with increased amygdala  responsiveness and volume.",
+      "year": 2015
+    },
+    {
+      "authors": "Ousdal OT, Andreassen OA, Server A, Jensen J",
+      "contrast_id": "1",
+      "id": "24755617-1",
+      "journal": "PloS one",
+      "study_id": "24755617",
+      "title": "Increased amygdala and visual cortex activity and functional connectivity towards stimulus novelty is associated with state anxiety.",
+      "year": 2014
+    },
+    {
+      "authors": "Baeken C, Marinazzo D, Van Schuerbeek P, Wu GR, De Mey J, Luypaert R, De Raedt R",
+      "contrast_id": "1",
+      "id": "24760033-1",
+      "journal": "PloS one",
+      "study_id": "24760033",
+      "title": "Left and right amygdala - mediofrontal cortical functional connectivity is differentially modulated by harm avoidance.",
+      "year": 2014
+    },
+    {
+      "authors": "Coombs Iii G, Loggia ML, Greve DN, Holt DJ",
+      "contrast_id": "1",
+      "id": "24816735-1",
+      "journal": "PloS one",
+      "study_id": "24816735",
+      "title": "Amygdala perfusion is predicted by its functional connectivity with the ventromedial prefrontal cortex and negative affect.",
+      "year": 2014
+    },
+    {
+      "authors": "Kruschwitz JD, Walter M, Varikuti D, Jensen J, Plichta MM, Haddad L, Grimm O, Mohnke S, Pohland L, Schott B, Wold A, Muhleisen TW, Heinz A, Erk S, Romanczuk-Seiferth N, Witt SH, Nothen MM, Rietschel M, Meyer-Lindenberg A, Walter H",
+      "contrast_id": "1",
+      "id": "24874919-1",
+      "journal": "Brain structure & function",
+      "study_id": "24874919",
+      "title": "5-HTTLPR/rs25531 polymorphism and neuroticism are linked by resting state functional connectivity of amygdala and fusiform gyrus.",
+      "year": 2015
+    },
+    {
+      "authors": "Romanczuk-Seiferth N, Pohland L, Mohnke S, Garbusow M, Erk S, Haddad L, Grimm O, Tost H, Meyer-Lindenberg A, Walter H, Wustenberg T, Heinz A",
+      "contrast_id": "1",
+      "id": "25003028-1",
+      "journal": "NeuroImage. Clinical",
+      "study_id": "25003028",
+      "title": "Larger amygdala volume in first-degree relatives of patients with major depression.",
+      "year": 2014
+    },
+    {
+      "authors": "Bauer CC, Barrios FA, Diaz JL",
+      "contrast_id": "1",
+      "id": "25166875-1",
+      "journal": "PloS one",
+      "study_id": "25166875",
+      "title": "Subjective somatosensory experiences disclosed by focused attention: cortical-hippocampal-insular and amygdala contributions.",
+      "year": 2014
+    },
+    {
+      "authors": "Roy AK, Benson BE, Degnan KA, Perez-Edgar K, Pine DS, Fox NA, Ernst M",
+      "contrast_id": "1",
+      "id": "25261727-1",
+      "journal": "Biological psychology",
+      "study_id": "25261727",
+      "title": "Alterations in amygdala functional connectivity reflect early temperament.",
+      "year": 2014
+    },
+    {
+      "authors": "Plichta MM, Grimm O, Morgen K, Mier D, Sauer C, Haddad L, Tost H, Esslinger C, Kirsch P, Schwarz AJ, Meyer-Lindenberg A",
+      "contrast_id": "1",
+      "id": "25284303-1",
+      "journal": "NeuroImage",
+      "study_id": "25284303",
+      "title": "Amygdala habituation: A reliable fMRI phenotype.",
+      "year": 2014
+    },
+    {
+      "authors": "Iidaka T, Harada T, Sadato N",
+      "contrast_id": "1",
+      "id": "25307137-1",
+      "journal": "Brain research",
+      "study_id": "25307137",
+      "title": "False memory for face in short-term memory and neural activity in human amygdala.",
+      "year": 2014
+    },
+    {
+      "authors": "Shao Y, Lei Y, Wang L, Zhai T, Jin X, Ni W, Yang Y, Tan S, Wen B, Ye E, Yang Z",
+      "contrast_id": "1",
+      "id": "25372882-1",
+      "journal": "PloS one",
+      "study_id": "25372882",
+      "title": "Altered resting-state amygdala functional connectivity after 36 hours of total sleep deprivation.",
+      "year": 2014
+    },
+    {
+      "authors": "Li M, Huang C, Deng W, Ma X, Han Y, Wang Q, Li Z, Guo W, Li Y, Jiang L, Lei W, Hu X, Gong Q, Merikangas KR, Palaniyappan L, Li T",
+      "contrast_id": "1",
+      "id": "25462396-1",
+      "journal": "Journal of affective disorders",
+      "study_id": "25462396",
+      "title": "Contrasting and convergent patterns of amygdala connectivity in mania and depression: a resting-state study.",
+      "year": 2015
+    },
+    {
+      "authors": "Yoder KJ, Porges EC, Decety J",
+      "contrast_id": "1",
+      "id": "25557777-1",
+      "journal": "Human brain mapping",
+      "study_id": "25557777",
+      "title": "Amygdala subnuclei connectivity in response to violence reveals unique influences of individual differences in psychopathic traits in a nonforensic sample.",
+      "year": 2014
+    },
+    {
+      "authors": "Yan X, Lazar M, Shalev AY, Neylan TC, Wolkowitz OM, Brown AD, Henn-Haase C, Yehuda R, Flory JD, Abu-Amara D, Sodickson DK, Marmar CR",
+      "contrast_id": "1",
+      "id": "25561375-1",
+      "journal": "Psychiatry research",
+      "study_id": "25561375",
+      "title": "Precuneal and amygdala spontaneous activity and functional connectivity in war-zone-related PTSD.",
+      "year": 2014
+    },
+    {
+      "authors": "Leung MK, Chan CC, Yin J, Lee CF, So KF, Lee TM",
+      "contrast_id": "1",
+      "id": "25623035-1",
+      "journal": "Neuroscience letters",
+      "study_id": "25623035",
+      "title": "Enhanced amygdala-cortical functional connectivity in meditators.",
+      "year": 2015
+    },
+    {
+      "authors": "Carpenter KL, Angold A, Chen NK, Copeland WE, Gaur P, Pelphrey K, Song AW, Egger HL",
+      "contrast_id": "1",
+      "id": "25625285-1",
+      "journal": "PloS one",
+      "study_id": "25625285",
+      "title": "Preschool anxiety disorders predict different patterns of amygdala-prefrontal connectivity at school-age.",
+      "year": 2015
+    },
+    {
+      "authors": "Hsu CT, Jacobs AM, Altmann U, Conrad M",
+      "contrast_id": "1",
+      "id": "25671315-1",
+      "journal": "PloS one",
+      "study_id": "25671315",
+      "title": "The magical activation of left amygdala when reading Harry Potter: an fMRI study  on how descriptions of supra-natural events entertain and enchant.",
+      "year": 2015
+    },
+    {
+      "authors": "Everaerd D, Klumpers F, van Wingen G, Tendolkar I, Fernandez G",
+      "contrast_id": "1",
+      "id": "25776217-1",
+      "journal": "NeuroImage",
+      "study_id": "25776217",
+      "title": "Association between neuroticism and amygdala responsivity emerges under stressful conditions.",
+      "year": 2015
+    },
+    {
+      "authors": "Sanchez TA, Mocaiber I, Erthal FS, Joffily M, Volchan E, Pereira MG, de Araujo DB, Oliveira L",
+      "contrast_id": "1",
+      "id": "25788883-1",
+      "journal": "Frontiers in human neuroscience",
+      "study_id": "25788883",
+      "title": "Amygdala responses to unpleasant pictures are influenced by task demands and positive affect trait.",
+      "year": 2015
+    },
+    {
+      "authors": "Gelskov SV, Henningsson S, Madsen KH, Siebner HR, Ramsoy TZ",
+      "contrast_id": "1",
+      "id": "25817710-1",
+      "journal": "Cortex; a journal devoted to the study of the nervous system and behavior",
+      "study_id": "25817710",
+      "title": "Amygdala signals subjective appetitiveness and aversiveness of mixed gambles.",
+      "year": 2015
+    },
+    {
+      "authors": "Alarcon G, Cservenka A, Rudolph MD, Fair DA, Nagel BJ",
+      "contrast_id": "1",
+      "id": "25887261-1",
+      "journal": "NeuroImage",
+      "study_id": "25887261",
+      "title": "Developmental sex differences in resting state functional connectivity of amygdala sub-regions.",
+      "year": 2015
+    },
+    {
+      "authors": "Bruneau EG, Jacoby N, Saxe R",
+      "contrast_id": "1",
+      "id": "25913703-1",
+      "journal": "NeuroImage",
+      "study_id": "25913703",
+      "title": "Empathic control through coordinated interaction of amygdala, theory of mind and  extended pain matrix brain regions.",
+      "year": 2015
+    },
+    {
+      "authors": "Schienle A, Leutgeb V, Wabnegger A",
+      "contrast_id": "1",
+      "id": "25937342-1",
+      "journal": "Psychiatry research",
+      "study_id": "25937342",
+      "title": "Symptom severity and disgust-related traits in borderline personality disorder: The role of amygdala subdivisions.",
+      "year": 2015
+    },
+    {
+      "authors": "Quaedflieg CW, van de Ven V, Meyer T, Siep N, Merckelbach H, Smeets T",
+      "contrast_id": "1",
+      "id": "25946334-1",
+      "journal": "PloS one",
+      "study_id": "25946334",
+      "title": "Temporal dynamics of stress-induced alternations of intrinsic amygdala connectivity and neuroendocrine levels.",
+      "year": 2015
+    },
+    {
+      "authors": "Sun X, Kroemer NB, Veldhuizen MG, Babbs AE, de Araujo IE, Gitelman DR, Sherwin RS, Sinha R, Small DM",
+      "contrast_id": "1",
+      "id": "25995480-1",
+      "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+      "study_id": "25995480",
+      "title": "Basolateral amygdala response to food cues in the absence of hunger is associated with weight gain susceptibility.",
+      "year": 2015
+    },
+    {
+      "authors": "Huang P, Xuan M, Gu Q, Yu X, Xu X, Luo W, Zhang M",
+      "contrast_id": "1",
+      "id": "26042728-1",
+      "journal": "Journal of affective disorders",
+      "study_id": "26042728",
+      "title": "Abnormal amygdala function in Parkinson's disease patients and its relationship to depression.",
+      "year": 2015
+    },
+    {
+      "authors": "Kruschwitz JD, Meyer-Lindenberg A, Veer IM, Wackerhagen C, Erk S, Mohnke S, Pohland L, Haddad L, Grimm O, Tost H, Romanczuk-Seiferth N, Heinz A, Walter M, Walter H",
+      "contrast_id": "1",
+      "id": "26178527-1",
+      "journal": "Human brain mapping",
+      "study_id": "26178527",
+      "title": "Segregation of face sensitive areas within the fusiform gyrus using global signal regression? A study on amygdala resting-state functional connectivity.",
+      "year": 2015
+    },
+    {
+      "authors": "Ikeda T, Matsuyoshi D, Sawamoto N, Fukuyama H, Osaka N",
+      "contrast_id": "1",
+      "id": "26190992-1",
+      "journal": "Frontiers in human neuroscience",
+      "study_id": "26190992",
+      "title": "Color harmony represented by activity in the medial orbitofrontal cortex and amygdala.",
+      "year": 2015
+    },
+    {
+      "authors": "Meier ML, Stampfli P, Vrana A, Humphreys BK, Seifritz E, Hotz-Boendermaker S",
+      "contrast_id": "1",
+      "id": "26257635-1",
+      "journal": "Frontiers in human neuroscience",
+      "study_id": "26257635",
+      "title": "Fear avoidance beliefs in back pain-free subjects are reflected by amygdala-cingulate responses.",
+      "year": 2015
+    },
+    {
+      "authors": "Goerlich-Dobre KS, Lamm C, Pripfl J, Habel U, Votinov M",
+      "contrast_id": "1",
+      "id": "26275382-1",
+      "journal": "NeuroImage",
+      "study_id": "26275382",
+      "title": "The left amygdala: A shared substrate of alexithymia and empathy.",
+      "year": 2015
+    },
+    {
+      "authors": "Spechler PA, Orr CA, Chaarani B, Kan KJ, Mackey S, Morton A, Snowe MP, Hudson KE, Althoff RR, Higgins ST, Cattrell A, Flor H, Nees F, Banaschewski T, Bokde ALW, Whelan R, Buchel C, Bromberg U, Conrod P, Frouin V, Papadopoulos D, Gallinat J, Heinz A, Walter H, Ittermann B, Gowland P, Paus T, Poustka L, Martinot JL, Artiges E, Smolka MN, Schumann G, Garavan H",
+      "contrast_id": "1",
+      "id": "26347227-1",
+      "journal": "Developmental cognitive neuroscience",
+      "study_id": "26347227",
+      "title": "Cannabis use in early adolescence: Evidence of amygdala hypersensitivity to signals of threat.",
+      "year": 2015
+    },
+    {
+      "authors": "Gottlich M, Kramer UM, Kordon A, Hohagen F, Zurowski B",
+      "contrast_id": "1",
+      "id": "26388257-1",
+      "journal": "Biological psychology",
+      "study_id": "26388257",
+      "title": "Resting-state connectivity of the amygdala predicts response to cognitive behavioral therapy in obsessive compulsive disorder.",
+      "year": 2015
+    },
+    {
+      "authors": "Patin A, Pause BM",
+      "contrast_id": "1",
+      "id": "26459095-1",
+      "journal": "Neuropsychologia",
+      "study_id": "26459095",
+      "title": "Human amygdala activations during nasal chemoreception.",
+      "year": 2015
+    },
+    {
+      "authors": "Paret C, Ruf M, Gerchen MF, Kluetsch R, Demirakca T, Jungkunz M, Bertsch K, Schmahl C, Ende G",
+      "contrast_id": "1",
+      "id": "26481674-1",
+      "journal": "NeuroImage",
+      "study_id": "26481674",
+      "title": "fMRI neurofeedback of amygdala response to aversive stimuli enhances prefrontal-limbic brain connectivity.",
+      "year": 2016
+    },
+    {
+      "authors": "Cohen N, Margulies DS, Ashkenazi S, Schaefer A, Taubert M, Henik A, Villringer A, Okon-Singer H",
+      "contrast_id": "1",
+      "id": "26520770-1",
+      "journal": "NeuroImage",
+      "study_id": "26520770",
+      "title": "Using executive control training to suppress amygdala reactivity to aversive information.",
+      "year": 2016
+    },
+    {
+      "authors": "Leutgeb V, Wabnegger A, Leitner M, Zussner T, Scharmuller W, Klug D, Schienle A",
+      "contrast_id": "1",
+      "id": "26523791-1",
+      "journal": "Neuroscience letters",
+      "study_id": "26523791",
+      "title": "Altered cerebellar-amygdala connectivity in violent offenders: A resting-state fMRI study.",
+      "year": 2016
+    },
+    {
+      "authors": "Weisholtz DS, Root JC, Butler T, Tuscher O, Epstein J, Pan H, Protopopescu X, Goldstein M, Isenberg N, Brendel G, LeDoux J, Silbersweig DA, Stern E",
+      "contrast_id": "1",
+      "id": "26575986-1",
+      "journal": "Brain and language",
+      "study_id": "26575986",
+      "title": "Beyond the amygdala: Linguistic threat modulates peri-sylvian semantic access cortices.",
+      "year": 2015
+    },
+    {
+      "authors": "Makovac E, Meeten F, Watson DR, Herman A, Garfinkel SN, D Critchley H, Ottaviani C",
+      "contrast_id": "1",
+      "id": "26682467-1",
+      "journal": "Biological psychiatry",
+      "study_id": "26682467",
+      "title": "Alterations in Amygdala-Prefrontal Functional Connectivity Account for Excessive  Worry and Autonomic Dysregulation in Generalized Anxiety Disorder.",
+      "year": 2016
+    },
+    {
+      "authors": "Schmitgen MM, Walter H, Drost S, Ruckl S, Schnell K",
+      "contrast_id": "1",
+      "id": "26803059-1",
+      "journal": "NeuroImage",
+      "study_id": "26803059",
+      "title": "Stimulus-dependent amygdala involvement in affective theory of mind generation.",
+      "year": 2016
+    },
+    {
+      "authors": "Mattson WI, Hyde LW, Shaw DS, Forbes EE, Monk CS",
+      "contrast_id": "1",
+      "id": "26865423-1",
+      "journal": "Social cognitive and affective neuroscience",
+      "study_id": "26865423",
+      "title": "Clinical neuroprediction: Amygdala reactivity predicts depressive symptoms 2 years later.",
+      "year": 2016
+    },
+    {
+      "authors": "Zotev V, Yuan H, Misaki M, Phillips R, Young KD, Feldner MT, Bodurka J",
+      "contrast_id": "1",
+      "id": "26958462-1",
+      "journal": "NeuroImage. Clinical",
+      "study_id": "26958462",
+      "title": "Correlation between amygdala BOLD activity and frontal EEG asymmetry during real-time fMRI neurofeedback training in patients with depression.",
+      "year": 2016
+    },
+    {
+      "authors": "Clark US, Sweet LH, Morgello S, Philip NS, Cohen RA",
+      "contrast_id": "1",
+      "id": "27011015-1",
+      "journal": "Brain imaging and behavior",
+      "study_id": "27011015",
+      "title": "High early life stress and aberrant amygdala activity: risk factors for elevated  neuropsychiatric symptoms in HIV+ adults.",
+      "year": 2017
+    },
+    {
+      "authors": "Kogler L, Muller VI, Seidel EM, Boubela R, Kalcher K, Moser E, Habel U, Gur RC, Eickhoff SB, Derntl B",
+      "contrast_id": "1",
+      "id": "27039701-1",
+      "journal": "NeuroImage",
+      "study_id": "27039701",
+      "title": "Sex differences in the functional connectivity of the amygdalae in association with cortisol.",
+      "year": 2016
+    },
+    {
+      "authors": "Nicholson AA, Sapru I, Densmore M, Frewen PA, Neufeld RW, Theberge J, McKinnon MC, Lanius RA",
+      "contrast_id": "1",
+      "id": "27042977-1",
+      "journal": "Psychiatry research. Neuroimaging",
+      "study_id": "27042977",
+      "title": "Unique insula subregion resting-state functional connectivity with amygdala complexes in posttraumatic stress disorder and its dissociative subtype.",
+      "year": 2016
+    },
+    {
+      "authors": "Yoon HJ, Kim JS, Shin YB, Choi SH, Lee SK, Kim JJ",
+      "contrast_id": "1",
+      "id": "27260987-1",
+      "journal": "Neuroscience letters",
+      "study_id": "27260987",
+      "title": "Neural activity during self-referential working memory and the underlying role of the amygdala in social anxiety disorder.",
+      "year": 2016
+    },
+    {
+      "authors": "Sakaki M, Yoo HJ, Nga L, Lee TH, Thayer JF, Mather M",
+      "contrast_id": "1",
+      "id": "27261160-1",
+      "journal": "NeuroImage",
+      "study_id": "27261160",
+      "title": "Heart rate variability is associated with amygdala functional connectivity with MPFC across younger and older adults.",
+      "year": 2016
+    },
+    {
+      "authors": "Schulte Holthausen B, Habel U, Kellermann T, Schelenz PD, Schneider F, Christopher Edgar J, Turetsky BI, Regenbogen C",
+      "contrast_id": "1",
+      "id": "27272198-1",
+      "journal": "Social cognitive and affective neuroscience",
+      "study_id": "27272198",
+      "title": "Task-irrelevant fear enhances amygdala-FFG inhibition and decreases subsequent face processing.",
+      "year": 2016
+    },
+    {
+      "authors": "Silvers JA, Lumian DS, Gabard-Durnam L, Gee DG, Goff B, Fareri DS, Caldera C, Flannery J, Telzer EH, Humphreys KL, Tottenham N",
+      "contrast_id": "1",
+      "id": "27307231-1",
+      "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+      "study_id": "27307231",
+      "title": "Previous Institutionalization Is Followed by Broader Amygdala-Hippocampal-PFC Network Connectivity during Aversive Learning in Human Development.",
+      "year": 2016
+    },
+    {
+      "authors": "Kaczkurkin AN, Moore TM, Ruparel K, Ciric R, Calkins ME, Shinohara RT, Elliott MA, Hopson R, Roalf DR, Vandekar SN, Gennatas ED, Wolf DH, Scott JC, Pine DS, Leibenluft E, Detre JA, Foa EB, Gur RE, Gur RC, Satterthwaite TD",
+      "contrast_id": "1",
+      "id": "27395327-1",
+      "journal": "Biological psychiatry",
+      "study_id": "27395327",
+      "title": "Elevated Amygdala Perfusion Mediates Developmental Sex Differences in Trait Anxiety.",
+      "year": 2016
+    },
+    {
+      "authors": "Silvers JA, Insel C, Powers A, Franz P, Helion C, Martin R, Weber J, Mischel W, Casey BJ, Ochsner KN",
+      "contrast_id": "1",
+      "id": "27445112-1",
+      "journal": "Developmental cognitive neuroscience",
+      "study_id": "27445112",
+      "title": "The transition from childhood to adolescence is marked by a general decrease in amygdala reactivity and an affect-specific ventral-to-dorsal shift in medial prefrontal recruitment.",
+      "year": 2017
+    },
+    {
+      "authors": "Tanaka Y, Kanazawa M, Kano M, Morishita J, Hamaguchi T, Van Oudenhove L, Ly HG, Dupont P, Tack J, Yamaguchi T, Yanai K, Tashiro M, Fukudo S",
+      "contrast_id": "1",
+      "id": "27448273-1",
+      "journal": "PloS one",
+      "study_id": "27448273",
+      "title": "Differential Activation in Amygdala and Plasma Noradrenaline during Colorectal Distention by Administration of Corticotropin-Releasing Hormone between Healthy Individuals and Patients with Irritable B",
+      "year": 2016
+    },
+    {
+      "authors": "Mutschler I, Ball T, Kirmse U, Wieckhorst B, Pluess M, Klarhofer M, Meyer AH, Wilhelm FH, Seifritz E",
+      "contrast_id": "1",
+      "id": "27560361-1",
+      "journal": "PloS one",
+      "study_id": "27560361",
+      "title": "The Role of the Subgenual Anterior Cingulate Cortex and Amygdala in Environmental Sensitivity to Infant Crying.",
+      "year": 2016
+    },
+    {
+      "authors": "Becker MP, Nitsch AM, Hewig J, Miltner WH, Straube T",
+      "contrast_id": "1",
+      "id": "27622399-1",
+      "journal": "NeuroImage",
+      "study_id": "27622399",
+      "title": "Parametric modulation of reward sequences during a reversal task in ACC and VMPFC but not amygdala and striatum.",
+      "year": 2016
+    },
+    {
+      "authors": "Nicholson AA, Ros T, Frewen PA, Densmore M, Theberge J, Kluetsch RC, Jetly R, Lanius RA",
+      "contrast_id": "1",
+      "id": "27672554-1",
+      "journal": "NeuroImage. Clinical",
+      "study_id": "27672554",
+      "title": "Alpha oscillation neurofeedback modulates amygdala complex connectivity and arousal in posttraumatic stress disorder.",
+      "year": 2016
+    },
+    {
+      "authors": "Kark SM, Slotnick SD, Kensinger EA",
+      "contrast_id": "1",
+      "id": "27676616-1",
+      "journal": "Journal of cognitive neuroscience",
+      "study_id": "27676616",
+      "title": "Repetition Enhancement of Amygdala and Visual Cortex Functional Connectivity Reflects Nonconscious Memory for Negative Visual Stimuli.",
+      "year": 2016
+    },
+    {
+      "authors": "Connolly CG, Ho TC, Blom EH, LeWinn KZ, Sacchet MD, Tymofiyeva O, Simmons AN, Yang TT",
+      "contrast_id": "1",
+      "id": "27716542-1",
+      "journal": "Journal of affective disorders",
+      "study_id": "27716542",
+      "title": "Resting-state functional connectivity of the amygdala and longitudinal changes in depression severity in adolescent depression.",
+      "year": 2017
+    },
+    {
+      "authors": "Toazza R, Franco AR, Buchweitz A, Molle RD, Rodrigues DM, Reis RS, Mucellini AB, Esper NB, Aguzzoli C, Silveira PP, Salum GA, Manfro GG",
+      "contrast_id": "1",
+      "id": "27716544-1",
+      "journal": "Psychiatry research. Neuroimaging",
+      "study_id": "27716544",
+      "title": "Amygdala-based intrinsic functional connectivity and anxiety disorders in adolescents and young adults.",
+      "year": 2016
+    },
+    {
+      "authors": "Swartz JR, Knodt AR, Radtke SR, Hariri AR",
+      "contrast_id": "1",
+      "id": "27717769-1",
+      "journal": "NeuroImage",
+      "study_id": "27717769",
+      "title": "Peering into the brain to predict behavior: Peer-reported, but not self-reported, conscientiousness links threat-related amygdala activity to future problem drinking.",
+      "year": 2017
+    },
+    {
+      "authors": "Wang X, Wang Z, Liu J, Chen J, Liu X, Nie G, Byun JS, Liang Y, Park J, Huang R, Liu M, Liu B, Kong J",
+      "contrast_id": "1",
+      "id": "27812501-1",
+      "journal": "NeuroImage. Clinical",
+      "study_id": "27812501",
+      "title": "Repeated acupuncture treatments modulate amygdala resting state functional connectivity of depressive patients.",
+      "year": 2016
+    },
+    {
+      "authors": "Meeten F, Davey GC, Makovac E, Watson DR, Garfinkel SN, Critchley HD, Ottaviani C",
+      "contrast_id": "1",
+      "id": "27853428-1",
+      "journal": "Frontiers in human neuroscience",
+      "study_id": "27853428",
+      "title": "Goal Directed Worry Rules Are Associated with Distinct Patterns of Amygdala Functional Connectivity and Vagal Modulation during Perseverative Cognition.",
+      "year": 2016
+    },
+    {
+      "authors": "Li W, Cui H, Zhu Z, Kong L, Guo Q, Zhu Y, Hu Q, Zhang L, Li H, Li Q, Jiang J, Meyers J, Li J, Wang J, Yang Z, Li C",
+      "contrast_id": "1",
+      "id": "27867352-1",
+      "journal": "Frontiers in human neuroscience",
+      "study_id": "27867352",
+      "title": "Aberrant Functional Connectivity between the Amygdala and the Temporal Pole in Drug-Free Generalized Anxiety Disorder.",
+      "year": 2016
+    },
+    {
+      "authors": "Santos S, Almeida I, Oliveiros B, Castelo-Branco M",
+      "contrast_id": "1",
+      "id": "27898705-1",
+      "journal": "PloS one",
+      "study_id": "27898705",
+      "title": "The Role of the Amygdala in Facial Trustworthiness Processing: A Systematic Review and Meta-Analyses of fMRI Studies.",
+      "year": 2016
+    },
+    {
+      "authors": "Guo X, Duan X, Long Z, Chen H, Wang Y, Zheng J, Zhang Y, Li R, Chen H",
+      "contrast_id": "1",
+      "id": "27969061-1",
+      "journal": "Psychiatry research. Neuroimaging",
+      "study_id": "27969061",
+      "title": "Decreased amygdala functional connectivity in adolescents with autism: A resting-state fMRI study.",
+      "year": 2016
+    },
+    {
+      "authors": "Wei S, Geng H, Jiang X, Zhou Q, Chang M, Zhou Y, Xu K, Tang Y, Wang F",
+      "contrast_id": "1",
+      "id": "28130184-1",
+      "journal": "Neuroscience letters",
+      "study_id": "28130184",
+      "title": "Amygdala-prefrontal cortex resting-state functional connectivity varies with first depressive or manic episode in bipolar disorder.",
+      "year": 2017
+    },
+    {
+      "authors": "Atzil S, Touroutoglou A, Rudy T, Salcedo S, Feldman R, Hooker JM, Dickerson BC, Catana C, Barrett LF",
+      "contrast_id": "1",
+      "id": "28193868-1",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "study_id": "28193868",
+      "title": "Dopamine in the medial amygdala network mediates human bonding.",
+      "year": 2017
+    },
+    {
+      "authors": "Ho SS, Swain JE",
+      "contrast_id": "1",
+      "id": "28263829-1",
+      "journal": "Behavioural brain research",
+      "study_id": "28263829",
+      "title": "Depression alters maternal extended amygdala response and functional connectivity during distress signals in attachment relationship.",
+      "year": 2017
+    },
+    {
+      "authors": "Baczkowski BM, Johnstone T, Walter H, Erk S, Veer IM",
+      "contrast_id": "1",
+      "id": "28300639-1",
+      "journal": "NeuroImage",
+      "study_id": "28300639",
+      "title": "Sliding-window analysis tracks fluctuations in amygdala functional connectivity associated with physiological arousal and vigilance during fear conditioning.",
+      "year": 2017
+    },
+    {
+      "authors": "Firat RB, Hitlin S, Magnotta V, Tranel D",
+      "contrast_id": "1",
+      "id": "28398590-1",
+      "journal": "Social cognitive and affective neuroscience",
+      "study_id": "28398590",
+      "title": "Putting race in context: social class modulates processing of race in the ventromedial prefrontal cortex and amygdala.",
+      "year": 2017
+    },
+    {
+      "authors": "Krause-Utz A, Winter D, Schriner F, Chiu CD, Lis S, Spinhoven P, Bohus M, Schmahl C, Elzinga BM",
+      "contrast_id": "1",
+      "id": "28526931-1",
+      "journal": "European archives of psychiatry and clinical neuroscience",
+      "study_id": "28526931",
+      "title": "Reduced amygdala reactivity and impaired working memory during dissociation in borderline personality disorder.",
+      "year": 2018
+    },
+    {
+      "authors": "Hassa T, Sebastian A, Liepert J, Weiller C, Schmidt R, Tuscher O",
+      "contrast_id": "1",
+      "id": "28529870-1",
+      "journal": "NeuroImage. Clinical",
+      "study_id": "28529870",
+      "title": "Symptom-specific amygdala hyperactivity modulates motor control network in conversion disorder.",
+      "year": 2017
+    },
+    {
+      "authors": "Riem MME, Van Ijzendoorn MH, Parsons CE, Young KS, De Carli P, Kringelbach ML, Bakermans-Kranenburg MJ",
+      "contrast_id": "1",
+      "id": "28585020-1",
+      "journal": "Cognitive, affective & behavioral neuroscience",
+      "study_id": "28585020",
+      "title": "Experimental manipulation of infant temperament affects amygdala functional connectivity.",
+      "year": 2017
+    },
+    {
+      "authors": "Westlund Schreiner M, Klimes-Dougan B, Mueller BA, Eberly LE, Reigstad KM, Carstedt PA, Thomas KM, Hunt RH, Lim KO, Cullen KR",
+      "contrast_id": "1",
+      "id": "28628767-1",
+      "journal": "Journal of affective disorders",
+      "study_id": "28628767",
+      "title": "Multi-modal neuroimaging of adolescents with non-suicidal self-injury: Amygdala functional connectivity.",
+      "year": 2017
+    },
+    {
+      "authors": "Graham AM, Rasmussen JM, Rudolph MD, Heim CM, Gilmore JH, Styner M, Potkin SG, Entringer S, Wadhwa PD, Fair DA, Buss C",
+      "contrast_id": "1",
+      "id": "28754515-1",
+      "journal": "Biological psychiatry",
+      "study_id": "28754515",
+      "title": "Maternal Systemic Interleukin-6 During Pregnancy Is Associated With Newborn Amygdala Phenotypes and Subsequent Behavior at 2 Years of Age.",
+      "year": 2018
+    },
+    {
+      "authors": "Altinay M, Karne H, Anand A",
+      "contrast_id": "1",
+      "id": "28772145-1",
+      "journal": "Journal of affective disorders",
+      "study_id": "28772145",
+      "title": "Lithium monotherapy associated clinical improvement effects on amygdala-ventromedial prefrontal cortex resting state connectivity in bipolar disorder.",
+      "year": 2018
+    },
+    {
+      "authors": "Young LR, Yu W, Holloway M, Rodgers BN, Chapman SB, Krawczyk DC",
+      "contrast_id": "1",
+      "id": "28844425-1",
+      "journal": "Neuropsychologia",
+      "study_id": "28844425",
+      "title": "Amygdala activation as a marker for selective attention toward neutral faces in a chronic traumatic brain injury population.",
+      "year": 2017
+    },
+    {
+      "authors": "Klumpers F, Kroes MCW, Baas JMP, Fernandez G",
+      "contrast_id": "1",
+      "id": "28893930-1",
+      "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+      "study_id": "28893930",
+      "title": "How Human Amygdala and Bed Nucleus of the Stria Terminalis May Drive Distinct Defensive Responses.",
+      "year": 2017
+    },
+    {
+      "authors": "Gawrysiak MJ, Jagannathan K, Regier P, Suh JJ, Kampman K, Vickery T, Childress AR",
+      "contrast_id": "1",
+      "id": "28957777-1",
+      "journal": "Drug and alcohol dependence",
+      "study_id": "28957777",
+      "title": "Unseen scars: Cocaine patients with prior trauma evidence heightened resting state functional connectivity (RSFC) between the amygdala and limbic-striatal regions.",
+      "year": 2017
+    },
+    {
+      "authors": "Buff C, Brinkmann L, Bruchmann M, Becker MPI, Tupak S, Herrmann MJ, Straube T",
+      "contrast_id": "1",
+      "id": "28981839-1",
+      "journal": "Social cognitive and affective neuroscience",
+      "study_id": "28981839",
+      "title": "Activity alterations in the bed nucleus of the stria terminalis and amygdala during threat anticipation in generalized anxiety disorder.",
+      "year": 2017
+    },
+    {
+      "authors": "da Cunha-Bang S, Fisher PM, Hjordt LV, Perfalk E, Beliveau V, Holst K, Knudsen GM",
+      "contrast_id": "1",
+      "id": "29061526-1",
+      "journal": "NeuroImage",
+      "study_id": "29061526",
+      "title": "Men with high serotonin 1B receptor binding respond to provocations with heightened amygdala reactivity.",
+      "year": 2018
+    },
+    {
+      "authors": "Hellrung L, Dietrich A, Hollmann M, Pleger B, Kalberlah C, Roggenhofer E, Villringer A, Horstmann A",
+      "contrast_id": "1",
+      "id": "29100939-1",
+      "journal": "NeuroImage",
+      "study_id": "29100939",
+      "title": "Intermittent compared to continuous real-time fMRI neurofeedback boosts control over amygdala activation.",
+      "year": 2018
+    },
+    {
+      "authors": "Gaffrey MS, Barch DM, Bogdan R, Farris K, Petersen SE, Luby JL",
+      "contrast_id": "1",
+      "id": "29102026-1",
+      "journal": "Biological psychiatry",
+      "study_id": "29102026",
+      "title": "Amygdala Reward Reactivity Mediates the Association Between Preschool Stress Response and Depression Severity.",
+      "year": 2018
+    },
+    {
+      "authors": "Brinkmann L, Buff C, Feldker K, Neumeister P, Heitmann CY, Hofmann D, Bruchmann M, Herrmann MJ, Straube T",
+      "contrast_id": "1",
+      "id": "29107120-1",
+      "journal": "NeuroImage",
+      "study_id": "29107120",
+      "title": "Inter-individual differences in trait anxiety shape the functional connectivity between the bed nucleus of the stria terminalis and the amygdala during brief threat processing.",
+      "year": 2018
+    },
+    {
+      "authors": "Ganella DE, Barendse MEA, Kim JH, Whittle S",
+      "contrast_id": "1",
+      "id": "29255411-1",
+      "journal": "Frontiers in human neuroscience",
+      "study_id": "29255411",
+      "title": "Prefrontal-Amygdala Connectivity and State Anxiety during Fear Extinction Recall  in Adolescents.",
+      "year": 2017
+    },
+    {
+      "authors": "Young KD, Siegle GJ, Misaki M, Zotev V, Phillips R, Drevets WC, Bodurka J",
+      "contrast_id": "1",
+      "id": "29270356-1",
+      "journal": "NeuroImage. Clinical",
+      "study_id": "29270356",
+      "title": "Altered task-based and resting-state amygdala functional connectivity following real-time fMRI amygdala neurofeedback training in major depressive disorder.",
+      "year": 2018
+    },
+    {
+      "authors": "Xia W, Luo Y, Chen YC, Zhang D, Bo F, Zhou P, Chen H, Wang F, Yin X, Ma J",
+      "contrast_id": "1",
+      "id": "29272791-1",
+      "journal": "Journal of affective disorders",
+      "study_id": "29272791",
+      "title": "Disrupted functional connectivity of the amygdala is associated with depressive mood in type 2 diabetes patients.",
+      "year": 2018
+    },
+    {
+      "authors": "Piel JH, Lett TA, Wackerhagen C, Plichta MM, Mohnke S, Grimm O, Romanczuk-Seiferth N, Degenhardt F, Tost H, Witt S, Nothen M, Rietschel M, Heinz A, Meyer-Lindenberg A, Walter H, Erk S",
+      "contrast_id": "1",
+      "id": "29358097-1",
+      "journal": "European neuropsychopharmacology : the journal of the European College of Neuropsychopharmacology",
+      "study_id": "29358097",
+      "title": "The effect of 5-HTTLPR and a serotonergic multi-marker score on amygdala, prefrontal and anterior cingulate cortex reactivity and habituation in a large, healthy fMRI cohort.",
+      "year": 2018
+    },
+    {
+      "authors": "Feng P, Becker B, Feng T, Zheng Y",
+      "contrast_id": "1",
+      "id": "29378319-1",
+      "journal": "NeuroImage",
+      "study_id": "29378319",
+      "title": "Alter spontaneous activity in amygdala and vmPFC during fear consolidation following 24h sleep deprivation.",
+      "year": 2018
+    },
+    {
+      "authors": "Hu S, Ide JS, Chao HH, Zhornitsky S, Fischer KA, Wang W, Zhang S, Li CR",
+      "contrast_id": "1",
+      "id": "29454928-1",
+      "journal": "Drug and alcohol dependence",
+      "study_id": "29454928",
+      "title": "Resting state functional connectivity of the amygdala and problem drinking in non-dependent alcohol drinkers.",
+      "year": 2018
+    },
+    {
+      "authors": "Wang Y, Zhu Y, Chen P, Yan F, Chen S, Li G, Hu X, Wang L, Yang Z",
+      "contrast_id": "1",
+      "id": "29555338-1",
+      "journal": "Behavioural brain research",
+      "study_id": "29555338",
+      "title": "Neuroticism is associated with altered resting-state functional connectivity of amygdala following acute stress exposure.",
+      "year": 2018
+    },
+    {
+      "authors": "Zhang X, Cheng H, Zuo Z, Zhou K, Cong F, Wang B, Zhuo Y, Chen L, Xue R, Fan Y",
+      "contrast_id": "1",
+      "id": "29755313-1",
+      "journal": "Frontiers in neuroscience",
+      "study_id": "29755313",
+      "title": "Individualized Functional Parcellation of the Human Amygdala Using a Semi-supervised Clustering Method: A 7T Resting State fMRI Study.",
+      "year": 2018
+    },
+    {
+      "authors": "LaBar KS, Gatenby JC, Gore JC, LeDoux JE, Phelps EA",
+      "contrast_id": "1",
+      "id": "9620698-1",
+      "journal": "Neuron",
+      "study_id": "9620698",
+      "title": "Human amygdala activation during conditioned fear acquisition and extinction: a mixed-trial fMRI study.",
+      "year": 1998
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+Click somewhere! You're clicking the <span id=but>N/A</span> button on <span id=pos></span>.
+<script>
+/* Old syntaxes:
+var b=document.getElementById("but")
+var p=document.getElementById("pos")
+document.onclick = function(e){
+   var e=e || event
+   switch(e.button){
+    case 0: b.innerHTML="left"; break;
+    case 1: b.innerHTML="middle"; break;
+    case 2: b.innerHTML="right"; break;
+   }
+   p.innerHTML=e.clientX+","+e.clientY
+}
+*/
+//New syntaxes
+var b=document.querySelector("#but") //CSS selector
+var p=b.nextElementSibling //Traversing the DOM tree
+document.onclick = (e)=>{
+   switch(e.button){
+    case 0: b.innerHTML="left"; break;
+    case 1: b.innerHTML="middle"; break;
+    case 2: b.innerHTML="right"; break;
+   }
+   p.innerHTML=`${e.clientX},${e.clientY}` //Template literals
+}
+</script>
+
+

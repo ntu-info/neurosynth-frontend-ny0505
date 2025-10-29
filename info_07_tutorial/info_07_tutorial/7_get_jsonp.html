@@ -1,0 +1,11 @@
+<div id="outputDiv"></div>
+<script>
+function jsonFlickrFeed(data) {
+	let image = "";
+	data.items.forEach((element)=>{
+	  image += `<img src=${element.media.m} \>`;
+	});
+	document.querySelector("#outputDiv").innerHTML = image;
+}
+</script>
+<script src="https://api.flickr.com/services/feeds/photos_public.gne?format=json&tags=cat"></script>

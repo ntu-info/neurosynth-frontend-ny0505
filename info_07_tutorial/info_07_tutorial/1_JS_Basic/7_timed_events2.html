@@ -1,0 +1,13 @@
+<script>
+
+const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
+async function test() {
+    for(i=1;i<4;i++){
+    	await delay(3000);
+    	document.write("test"+i+"<br>");
+    }
+}
+
+test();
+
+</script>

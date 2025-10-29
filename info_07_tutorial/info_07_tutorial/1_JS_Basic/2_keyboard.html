@@ -1,0 +1,18 @@
+Press something! You press <span id=key>N/A</span>
+<script>
+/* Old syntaxes:
+var f=document.getElementById("key")
+document.onkeydown = function(e){
+   f.innerHTML=String.fromCharCode(e.keyCode)
+   if(e.keyCode==49){f.innerHTML+=" Great!"}
+}
+*/
+
+//New syntaxes
+var f=document.querySelector("#key") //CSS selector
+document.addEventListener('keydown',(e)=>{ //Arrow function
+   f.innerHTML=String.fromCharCode(e.keyCode)
+   //Conditional (ternary) operator:
+   f.innerHTML= (e.keyCode==49 ? `${f.innerHTML} great!` : f.innerHTML) //Template literals
+})
+</script>

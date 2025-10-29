@@ -1,0 +1,11 @@
+[build]
+  publish = "frontend"
+  functions = "netlify/functions"
+  # Build command: install dependencies for the `frontend` folder and run the Tailwind CSS build
+  command = "npm ci --prefix frontend && npm run build:css --prefix frontend"
+
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/proxy/:splat"
+  status = 200
+  force = true

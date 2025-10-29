@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Tailwind Play CDN: no build step, just drop-in -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Tailwind MWE</title>
+  </head>
+  <body class="bg-black text-white p-6 space-y-3">
+    <!-- h1 styled like your CSS: red text, slightly large -->
+    <h1 class="text-red-500 text-2xl">Hi!</h1>
+
+    <!-- Example 1: inline element (span) inherits flow of the line -->
+    <p>This is <span class="text-yellow-300">test1</span></p>
+    <hr class="border-gray-800" />
+
+    <!-- Example 2: block element (div) breaks line; same yellow utility -->
+    <p class="mb-0">This is</p>
+    <div class="text-yellow-300">test2</div>
+    <hr class="border-gray-800" />
+
+    <!-- Example 3: green text on a span (inline) -->
+    <p>This is <span class="text-green-400">test3</span></p>
+    <hr class="border-gray-800" />
+
+    <!-- Example 4: green text on a div (block) -->
+    <p class="mb-0">This is</p>
+    <div class="text-green-400">test4</div>
+    <hr class="border-gray-800" />
+
+    <!-- Example 5: blue text on a div -->
+    <div class="text-blue-400">test5</div>
+
+    <!-- Notes:
+      - Tailwind replaces custom CSS with utility classes like text-yellow-300.
+      - span = inline (stays within the line), div = block (starts on a new line).
+      - You can swap colors by changing the utility (e.g., text-green-400 → text-blue-400).
+    -->
+  </body>
+</html>
+

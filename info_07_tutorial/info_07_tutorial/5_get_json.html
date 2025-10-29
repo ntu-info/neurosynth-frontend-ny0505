@@ -1,0 +1,7 @@
+<script>
+fetch('http://127.0.0.1:5000/json?greet=Hi&name=Mary')
+.then(r => r.json()) //Simplified arrow function
+.then((r) => { //Arrow function
+	alert(`${r.greet} ${r.name}`);
+}).catch(err => console.log(err)) //Simplified arrow function
+</script>

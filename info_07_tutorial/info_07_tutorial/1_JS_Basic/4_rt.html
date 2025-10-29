@@ -1,0 +1,9 @@
+Press something! Your RT is <span id=rt>N/A</span>.
+<script>
+   var r=document.getElementById("rt")
+   startTime = new Date().getTime()
+   document.onkeydown = function(e){
+   endTime = new Date().getTime();
+   r.innerHTML=(endTime-startTime)/1000
+}  
+</script>

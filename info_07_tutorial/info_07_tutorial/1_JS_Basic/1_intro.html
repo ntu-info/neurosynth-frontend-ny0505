@@ -1,0 +1,54 @@
+<script>
+var book={'suling':63097, 'tren':63104, 'brown':63095}
+let animals=['cat','dog']; //var:function scope; let:block scope
+//let animals=animals.concat('pandas');
+animals=[...animals,'pandas'] //Spread operator
+
+/*
+function Person(name,tel) {
+  this.name = name;
+  this.tel = tel
+  this.getTel = function(){return [this.name, this.tel];}
+}
+*/
+class Person {
+  constructor(name,tel) {
+    this.name = name;
+    this.tel = tel;
+  }
+  getTel(){
+    return [this.name, this.tel];
+  }
+}
+
+const suling=new Person('Suling',63097)
+const brown=new Person('Brown',63095)
+const tren=new Person('Tren',63104)
+const {name,tel}=tren //destructing an object
+let people=[suling,tren,brown]
+console.log(people)
+console.log(`${name},${tel}`)
+/*
+for(i=0; i<str.length; i++){
+ if(i<animals.length){
+  alert(i+animals[i]);
+ }
+}
+*/
+animals.map((x,i)=>{alert(x+i)}) //
+
+/*
+for(i=0; i<people.length; i++){
+    //name=people[i].name
+    //tel=people[i].tel
+    const [name,tel]=people[i].getTel() //Destructuring assignment
+    if(name!='Tren'){document.write(name+' '+tel+'<br>')}
+}
+*/
+people.filter(x=>x.name!='Tren').map(x=>{document.write(`${x.name} ${x.tel}<br>`)})
+
+hello=()=>console.log("hello")
+</script>
+
+<input type="button" value="hi" onclick="alert('hi')">
+<input type="button" value="hello" onclick="hello()">
